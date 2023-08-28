@@ -81,33 +81,28 @@
         "title": "Front-End Developer",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Docker",
+          "System & network architecture",
+          "IIOT"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Computer science applied to industry",
+          "containerisation technologie such as docker and kubernetes",
+          "software benchmarking",
+          "implement an innovative architecture from an R&D industrial project"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Astrée Software",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "12.2018 - 12.2018",
         "mainTech": [
-          "Angular 7/8"
+          "Observation Internship"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "team work",
+          "Agile methodology",
+          "web development"
         ]
       }
     ]
