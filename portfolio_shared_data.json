@@ -1,17 +1,22 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "MAILLARD William",
+      "titles": [ "Master 2 Informatique", "Données et Systèmes connectés", "AI and big data", "(Industrial) Internet Of Things", "cybersecurity", "web and software development" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/william-maillard",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "gitlab",
+          "url": "https://gitlab.com/william-maillard",
+          "class": "fab fa-gitlab"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/william-maillard/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
