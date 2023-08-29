@@ -31,14 +31,356 @@
         ]
       },
       {
-        "title": "Exemple - Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "formal languages",
+        "startDate": "2nd year of Computer Science Bachelor",
+        "description": "creation of a deterministic finite automaton.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "./",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+        ]
+      },
+      {
+        "title": "Correctly Parenthesised",
+        "startDate": "2nd year of Computer Science Bachelor",
+        "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
+        "images": [
+          "images/L2/parenthesised.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+        "technologies": [
+          {
+            "class": "devicon-putty-original",
+            "name": "Assembly x86"
+          },
+          {
+            "class": "devicon-latex-original",
+            "name": "Latex"
+          }
+        ]
+      },
+      {
+        "title": "k nearest neighbours",
+        "startDate": "2nd year of Computer Science Bachelor",
+        "description": "Graphical representation of the k-ppv search using a tree.",
+        "images": [
+          "images/L2/decision-tree.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/kppv-tree",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-sdl-plain",
+            "name": "graphic library\nMLV"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "AI algorithm"
+          }
+        ]
+      },
+      {
+        "title": "Des restes Une recette",
+        "startDate": "2nd year of Computer Science Bachelor",
+        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes.",
+        "images": [
+          "images/L2/des-recetes-une-recette.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "php8"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Wargame",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description": "Create a wargame in JAVA and Swing. First Object Oriented project",
+        "images": [
+          "images/L3/poo.png",
+        ],
+        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "graphic library\nSwing & Awt"
+          }
+        ]
+      },
+      {
+        "title": "Compilation",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-linux-plain",
+            "name": "Lex & Yacc"
+          }
+        ]
+      },
+      {
+        "title": "System Programming",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description":  "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",,
+        "images": [
+          "images/L3/garage.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-linux-plain",
+            "name": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Free-Steal",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
+        "images": [
+          "images/L3/key.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "graphic library\nSwing & Awt"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          },
+          {
+            "class": "devicon-networkx-original",
+            "name": "massive multiplayers"
+          }
+        ]
+      },
+      {
+        "title": "Graphic Computing",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description":  "Management of a large number of elements (variable) in a 3D environment using an octree.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-opengl-plain",
+            "name": "opengl"
+          }
+        ]
+      },
+      {
+        "title": "Webapp Text Editor",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description": "Creation of a shared java document with 1 server ,1 heavy client (swing) and 1 light client (java-script).",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/projetdw2",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "JPA"
+          },
+          {
+            "class": "devicon-tomcat-line",
+            "name": "tomcat server"
+          }
+        ]
+      },
+      {
+        "title": "OpenAirbnb",
+        "startDate": "1st year of Computer Science Master",
+        "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/2022-pwa-d",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring framework"
+          }
+          ,
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "vueJS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Study : Knapsack Problem algorithms",
+        "startDate": "1st year of Computer Science Master",
+        "description": "The project aims to program many algorithms to solve the 0/1 knapsack problem and make a study about their running time and the quality of their solution.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "bash"
+          }
+        ]
+      },
+      {
+        "title": "Documents and structured data",
+        "startDate": "1st year of Computer Science Master",
+        "description": "The aim of the project is to extract data from a company's timesheets. These documents are received by the application in .ods (Open Document Spreadsheet) format. The extracted data will be stored in a database, whose entity-association schema is provided in appendix 1, so that it can be used to respond to queries from a business application. The application will be able to request information about employees and current projects. These requests will be configurable. Each parameter will have a default value, making them all optional.",
+        "images": [
+        ],
+        "url": "https://gitlab.com/William-maillard/DDS",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "nodejs"
+          },
+          {
+            "class": "devicon-appwrite-plain",
+            "name": "xml"
+          }
+        ]
+      },
+      {
+        "title": "AlpesTransport",
+        "startDate": "1st year of Computer Science Master",
+        "description":  "Wikibase is an open-source platform developed by the Wikimedia Foundation for storing, managing and publishing structured and linked data using Semantic Web technologies such as RDF (Resource Description Framework) and SPARQL (SPARQL Protocol and RDF Query Language).",
+        "images": [
+          "images/M1/alpesTransport.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/m1_interoperabilite",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask library"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "wikibase & rdf data"
+          }
+        ]
+      },
+      {
+        "title": "E-commerce revisite",
+        "startDate": "1st year of Computer Science Master",
+        "description":  "creation and saving of 3D shop models loading and visiting a shop with a meta-human creation of a neo4j DB to store products (generated with Java Faker)",
+        "images": [
+          "images/M1/ecr.gif",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
+        "technologies": [
+          {
+            "class": "devicon-unrealengine-original",
+            "name": "Unreal Engine & Blueprint"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-neo4j-plain",
+            "name": "neo4j"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "1st year of Computer Science Master",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,26 +393,142 @@
         ]
       },
       {
-        "title": "Exemple - 3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "",
+        "startDate": "1st year of Computer Science Master",
+        "description": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "https://gitlab.com/William-maillard/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "1st year of Computer Science Master",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
