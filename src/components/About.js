@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+// import { Icon } from "@iconify/react";
+// import rustIcon from "@iconify/icons-logos/rust";
+// import vscodeIcon from '@iconify/icons-devicon/vscode';
+// import dockerWordmark from '@iconify/icons-devicon/docker-wordmark';
 
 class About extends Component {
   render() {
@@ -30,18 +30,18 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <Icon
-                    icon={angularIcon}
+                  {/* <Icon
+                    icon={rustIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
+                  /> */}
+                  {/* <Icon
+                    icon={vscodeIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
+                  /> */}
+                  {/* <Icon
+                    icon={dockerWordmark}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  /> */}
                 </span>
               </div>
             </div>
