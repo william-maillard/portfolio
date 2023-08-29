@@ -127,7 +127,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a wargame in JAVA and Swing. First Object Oriented project",
         "images": [
-          "images/L3/poo.png",
+          "images/L3/poo.png"
         ],
         "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "technologies": [
@@ -164,7 +164,7 @@
       {
         "title": "System Programming",
         "startDate": "3rd year of Computer Science Bachelor",
-        "description":  "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",,
+        "description":  "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",
         "images": [
           "images/L3/garage.png",
           ""
@@ -373,162 +373,50 @@
         ]
       },
       {
-        "title": "",
+        "title": "Handwritten digit recognition",
         "startDate": "1st year of Computer Science Master",
         "description": "",
         "images": [
           "",
           ""
         ],
-        "url": "https://gitlab.com/William-maillard/",
+        "url": "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-python-plain",
+            "name": "python"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-pytorch-original",
+            "name": "pytorch"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "bash"
           }
         ]
       },
       {
-        "title": "",
+        "title": "HMM sentiment analysis",
         "startDate": "1st year of Computer Science Master",
         "description": "",
         "images": [
           "",
           ""
         ],
-        "url": "https://gitlab.com/William-maillard/",
+        "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-python-plain",
+            "name": "python"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "startDate": "1st year of Computer Science Master",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "https://gitlab.com/William-maillard/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-python-plain",
+            "name": "sikit-learn"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "startDate": "",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "https://gitlab.com/William-maillard/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "startDate": "",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "https://gitlab.com/William-maillard/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "startDate": "",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "https://gitlab.com/William-maillard/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "startDate": "",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "https://gitlab.com/William-maillard/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "startDate": "",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "https://gitlab.com/William-maillard/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-jupyter-plain",
+            "name": "jupiter notebook"
           }
         ]
       }
