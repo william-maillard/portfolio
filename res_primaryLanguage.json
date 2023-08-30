@@ -262,8 +262,9 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form.",
         "images": [
-          "./",
-          ""
+          "./images/M1/openairbnb_home.jpg",
+          "./images/M1/openairbnb_search.jpg",
+          "./images/M1/openairbnb_lease.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/2022-pwa-d",
         "technologies": [
