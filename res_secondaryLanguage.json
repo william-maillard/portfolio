@@ -1,115 +1,455 @@
 {
     "basic_info": {
-      "description_header": "Salut 👋",
-      "description": "🔎 En recherche de stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois)",
-      "section_name": {
-        "about": "À propos",
-        "projects": "Projets",
-        "skills": "Compétences",
-        "experience": "Expériences"
-      }
+    "description_header": "Salut 👋",
+    "description": "🔎 À la recherche d'un stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois)",
+    "section_name": {
+    "about": "À propos de moi",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "experience": "Expérience"
+    }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Bomberman",
+        "startDate": "L2 informatique, S1",
+        "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/L2/bomberman.png",
+          "images/L2/bomberman.png"
         ],
-        "url": "",
+        "url": "https://gitlab.com/William-maillard/bomberman",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-c-plain",
+            "name": "C"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sdl-plain",
+            "name": "bibliothèque graphique MLV"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Langages formels",
+        "startDate": "L2 informatique, S1",
+        "description": "Création d'un automate fini déterministe.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "./",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+        ]
+      },
+      {
+        "title": "Parenthésage correct",
+        "startDate": "L2 informatique, S1",
+        "description": "Création d'un programme qui vérifie qu'une chaîne de parenthèses est correctement parenthésée en assembleur x86.\n L'utilisateur peut définir les paires de parenthèses avec n'importe quel caractère au début du programme.",
+        "images": [
+          "images/L2/parenthesised.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+        "technologies": [
+          {
+            "class": "devicon-putty-original",
+            "name": "Assembleur x86"
+          },
+          {
+            "class": "devicon-latex-original",
+            "name": "Latex"
+          }
+        ]
+      },
+      {
+        "title": "k plus proches voisins",
+        "startDate": "L2 informatique, S2",
+        "description": "Représentation graphique de la recherche des k-ppv en utilisant un arbre.",
+        "images": [
+          "images/L2/decision-tree.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/kppv-tree",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-sdl-plain",
+            "name": "bibliothèque graphique MLV"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "algorithme IA"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Des restes Une recette",
+        "startDate": "L2 informatique, S2",
+        "description": "'Des restes Une recette' est un site web qui vous permet de rechercher une recette en fonction des restes dans votre réfrigérateur. Les membres connectés peuvent voter pour leurs recettes préférées.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/L2/des-recetes-une-recette.png",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "html5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "css3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "php8"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Wargame",
+        "startDate": "L3 informatique, S1",
+        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets",
+        "images": [
+          "images/L3/poo.png"
+        ],
+        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "bibliothèque graphique\nSwing & Awt"
+          }
+        ]
+      },
+      {
+        "title": "Compilation",
+        "startDate": "L3 informatique, S1",
+        "description": "Créer un compilateur pour transcrire un programme (dont la syntaxe est choisie arbitrairement) en un arbre qui sera ensuite exécuté par une machine virtuelle.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-linux-plain",
+            "name": "Lex & Yacc"
+          }
+        ]
+      },
+      {
+        "title": "Programmation système",
+        "startDate": "L3 informatique, S1",
+        "description": "Projet réalisé en 24 heures pour simuler la gestion d'un garage en utilisant les outils vus dans cette UE tels que : communication inter-processus avec des signaux, files de messages, sémaphores, segments de mémoire partagée",
+        "images": [
+          "images/L3/garage.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-linux-plain",
+            "name": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Free-Steal",
+        "startDate": "L3 informatique, S2",
+        "description": "Sujet : Créer un jeu multijoueur à jouer dans un cinéma avant la projection d'un film (environ une centaine de personnes). Réalisé : Jeu multijoueur où vous déplacez un personnage avec votre téléphone (manette sur un site web), vous devez collecter autant de clés que possible dans le temps imparti pour gagner. Méfiez-vous des ennemis et des autres joueurs qui peuvent tirer des missiles. Déploiement : Projection en mai 2022 au cinéma Méliez à Saint-Étienne.",
+        "images": [
+          "images/L3/key.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "bibliothèque graphique \nSwing & Awt"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          },
+          {
+            "class": "devicon-networkx-original",
+            "name": "multi-joueurs massifs"
+          }
+        ]
+      },
+      {
+        "title": "Informatique graphique",
+        "startDate": "L3 informatique, S2",
+        "description":  "Gestion d'un grand nombre d'éléments (variables) dans un environnement 3D à l'aide d'un octree.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-opengl-plain",
+            "name": "opengl"
+          }
+        ]
+      },
+      {
+        "title": "Éditeur de texte Web",
+        "startDate": "L3 informatique, S2",
+        "description": "Création d'un document java partagé avec 1 serveur, 1 client lourd (swing) et 1 client léger (java-script).",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/projetdw2",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "JPA"
+          },
+          {
+            "class": "devicon-tomcat-line",
+            "name": "tomcat server"
+          }
+        ]
+      },
+      {
+        "title": "OpenAirbnb",
+        "startDate": "M1 informatique, S1",
+        "description": "Le projet vise à fournir une application Web open source pour louer (du côté du propriétaire et du locataire) le logement d'un particulier. L'application permettra la recherche de locations par emplacement et de nombreux autres filtres tels que les expériences (cabane dans les arbres, ferme, ...), les fonctionnalités (fourniture de draps, machine à laver, acceptation des animaux de compagnie, ...), ... Et si nous avons le temps, nous essaierons d'étendre la recherche sur une carte, en plus du formulaire.",
+        "images": [
+          "./images/M1/openairbnb_home.jpg",
+          "./images/M1/openairbnb_search.jpg",
+          "./images/M1/openairbnb_lease.jpg"
+        ],
+        "url": "https://gitlab.com/William-maillard/2022-pwa-d",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring framework"
+          }
+          ,
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "vueJS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Study : Knapsack Problem algorithms",
+        "startDate": "M1 informatique, S1",
+         "description": "Le projet vise à programmer plusieurs algorithmes pour résoudre le Problème du Sac à Dos 0/1 et à réaliser une étude sur leur temps d'exécution et la qualité de leur solution.",
+        "images": [
+          "./",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "bash"
+          }
+        ]
+      },
+      {
+        "title": "Documents et données structurées",
+        "startDate": "M1 informatique, S1",
+        "description": "L'objectif du projet est d'extraire des données des feuilles de temps d'une entreprise. Ces documents sont reçus par l'application au format .ods (tableur Open Document). Les données extraites seront stockées dans une base de données, dont le schéma entité-association est fourni en annexe 1, afin qu'elles puissent être utilisées pour répondre aux requêtes d'une application métier. L'application pourra demander des informations sur les employés et les projets en cours. Ces requêtes seront configurables. Chaque paramètre aura une valeur par défaut, les rendant tous optionnels.",
+        "images": [
+        ],
+        "url": "https://gitlab.com/William-maillard/DDS",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "nodejs"
+          },
+          {
+            "class": "devicon-appwrite-plain",
+            "name": "xml"
+          }
+        ]
+      },
+      {
+        "title": "AlpesTransport",
+        "startDate": "M1 informatique, S2",
+        "description":  "Wikibase est une plateforme open source développée par la Wikimedia Foundation pour stocker, gérer et publier des données structurées et liées en utilisant les technologies du Web sémantique telles que RDF (Resource Description Framework) et SPARQL (SPARQL Protocol and RDF Query Language).",
+        "images": [
+          "images/M1/alpesTransport.png",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/m1_interoperabilite",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "bibliothèque Flask"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "wikibase & données rdf"
+          }
+        ]
+      },
+      {
+        "title": "E-commerce revisite",
+        "startDate": "M1 informatique, S2",
+        "description":  "Création et sauvegarde de modèles de magasins en 3D chargement et visite d'un magasin avec un méta-humain création d'une base de données neo4j pour stocker les produits (générés avec Java Faker)",
+        "images": [
+          "images/M1/ecr.gif",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
+        "technologies": [
+          {
+            "class": "devicon-unrealengine-original",
+            "name": "Unreal Engine & Blueprint"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-neo4j-plain",
+            "name": "neo4j"
+          }
+        ]
+      },
+      {
+        "title": "Reconnaissance de chiffres manuscrits",
+        "startDate": "M1 informatique, S2",
+        "description": "Modèle d'apprentissage profond pour reconnaitre des chiffres à partir d'images de chiffres écrits à la main.",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-pytorch-original",
+            "name": "pytorch"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "bash"
+          }
+        ]
+      },
+      {
+        "title": "HMM sentiment analysis",
+        "startDate": "M1 informatique, S2",
+        "description": "",
+        "images": [
+          "",
+          ""
+        ],
+        "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "sikit-learn"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "jupiter notebook"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Actemium",
+        "title": "Stagiaire IT",
+        "years": "04.2023 - 08.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "Docker",
+          "architecture systèmes et réseaux",
+          "IIOT"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Informatique industrielle",
+          "Technologies de conteneurisation telles que docker et kubernetes",
+          "Benchmarking logiciels",
+          "Mise en place d'une architecture innovante à partir d'un projet industriel de R&D"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Astrée Software",
+        "title": "Stagiaire",
+        "years": "12.2018 - 12.2018",
         "mainTech": [
-          "Angular 7/8"
+          "stage d'observation"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Travail en équipe",
+          "Méthodologie Agile",
+          "Développement web"
         ]
       }
     ]

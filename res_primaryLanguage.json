@@ -376,7 +376,7 @@
       {
         "title": "Handwritten digit recognition",
         "startDate": "1st year of Computer Science Master",
-        "description": "",
+        "description": "Deep learning model for recognizing digits from images of handwritten digits",
         "images": [
           "",
           ""
@@ -436,7 +436,7 @@
           "Computer science applied to industry",
           "containerisation technologie such as docker and kubernetes",
           "software benchmarking",
-          "implement an innovative architecture from an R&D industrial project"
+          "implement an innovative architecture \nfrom an R&D industrial project"
         ]
       },
       {
