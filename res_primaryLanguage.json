@@ -186,8 +186,9 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
         "images": [
-          "images/L3/free-steal.mp4",
-          "images/L3/key.png"
+          "images/L3/free-steal.gif",
+          "images/L3/key.png",
+          "images/L3/free-steal.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
         "technologies": [
