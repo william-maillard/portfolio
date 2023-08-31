@@ -123,6 +123,25 @@
         ]
       },
       {
+        "title": "Java Drawing app",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/",
+        "images": [
+          "images/L3/drawing_app.png"
+        ],
+        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "graphic library\nSwing & Awt"
+          }
+        ]
+      },
+      {
         "title": "Wargame",
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a wargame in JAVA and Swing. First Object Oriented project",
