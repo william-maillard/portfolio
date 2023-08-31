@@ -15,9 +15,14 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV.",
         "images": [
-          "images/L2/bomberman.gif",
-          "images/L2/bomberman.png",
-          "images/L2/bomberman/bomberman.mp4"
+          "images/L2/1_bomberman/a_presentation.gif",
+          "images/L2/1_bomberman/b_home.png",
+          "images/L2/1_bomberman/c_rules.png",
+          "images/L2/1_bomberman/d_start.png",
+          "images/L2/1_bomberman/e_game.png",
+          "images/L2/1_bomberman/f_explosion.png",
+          "images/L2/1_bomberman/g_end.png",
+          "images/L2/1_bomberman/z_video.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/bomberman",
         "technologies": [
