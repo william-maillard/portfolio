@@ -56,6 +56,7 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
         "images": [
+          "images/L2/3_assembly/a_presentation.gif",
           "images/L2/3_assembly/b_sujet.png",
           "images/L2/3_assembly/c_algo.png"
         ],
@@ -76,8 +77,14 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "Graphical representation of the k-ppv search using a tree.",
         "images": [
-          "images/L2/decision-tree.png",
-          ""
+          "images/L2/4_knn/a_presentation.gif",
+          "images/L2/4_knn/b_home.png",
+          "images/L2/4_knn/c_click.png",
+          "images/L2/4_knn/d_click_2.png",
+          "images/L2/4_knn/e_load_file.png",
+          "images/L2/4_knn/f_30nn.png",
+          "images/L2/4_knn/g_tree_cut_plan.png",
+          "images/L2/4_knn/h_tree_cut_plan_decision.png"
         ],
         "url": "https://gitlab.com/William-maillard/kppv-tree",
         "technologies": [
