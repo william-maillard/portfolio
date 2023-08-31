@@ -57,8 +57,7 @@
         "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
         "images": [
           "images/L2/3_assembly/b_sujet.png",
-          "images/L2/3_assembly/c_algo.png",
-          "images/L2/3_assembly/d_algo.png"
+          "images/L2/3_assembly/c_algo.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
         "technologies": [
