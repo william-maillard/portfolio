@@ -177,8 +177,7 @@
         "startDate": "L3 informatique, S1",
         "description": "Créer un compilateur pour transcrire un programme (dont la syntaxe est choisie arbitrairement) en un arbre qui sera ensuite exécuté par une machine virtuelle.",
         "images": [
-          "./",
-          ""
+          "images/L3/3_compilation/b_fact.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
         "technologies": [
