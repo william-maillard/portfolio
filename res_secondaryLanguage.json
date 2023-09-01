@@ -322,8 +322,7 @@
         "startDate": "M1 informatique, S1",
          "description": "Le projet vise à programmer plusieurs algorithmes pour résoudre le Problème du Sac à Dos 0/1 et à réaliser une étude sur leur temps d'exécution et la qualité de leur solution.",
         "images": [
-          "./",
-          ""
+          "images/M1/2_knapsack_pbm/b_results.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
         "technologies": [

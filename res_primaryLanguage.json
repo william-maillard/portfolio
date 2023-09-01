@@ -139,7 +139,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/",
         "images": [
-          "images/L3/drawing_app.png"
+          "images/L3/1_drawing_app/drawing_app.png"
         ],
         "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "technologies": [
@@ -323,8 +323,7 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The project aims to program many algorithms to solve the 0/1 knapsack problem and make a study about their running time and the quality of their solution.",
         "images": [
-          "./",
-          ""
+          "images/M1/2_knapsack_pbm/b_results.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
         "technologies": [
