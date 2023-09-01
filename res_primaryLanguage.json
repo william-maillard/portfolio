@@ -342,6 +342,7 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The aim of the project is to extract data from a company's timesheets. These documents are received by the application in .ods (Open Document Spreadsheet) format. The extracted data will be stored in a database, whose entity-association schema is provided in appendix 1, so that it can be used to respond to queries from a business application. The application will be able to request information about employees and current projects. These requests will be configurable. Each parameter will have a default value, making them all optional.",
         "images": [
+          "images/M1/3_dds/b_home.png"
         ],
         "url": "https://gitlab.com/William-maillard/DDS",
         "technologies": [

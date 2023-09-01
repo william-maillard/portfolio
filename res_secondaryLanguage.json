@@ -341,6 +341,7 @@
         "startDate": "M1 informatique, S1",
         "description": "L'objectif du projet est d'extraire des données des feuilles de temps d'une entreprise. Ces documents sont reçus par l'application au format .ods (tableur Open Document). Les données extraites seront stockées dans une base de données, dont le schéma entité-association est fourni en annexe 1, afin qu'elles puissent être utilisées pour répondre aux requêtes d'une application métier. L'application pourra demander des informations sur les employés et les projets en cours. Ces requêtes seront configurables. Chaque paramètre aura une valeur par défaut, les rendant tous optionnels.",
         "images": [
+          "images/M1/3_dds/b_home.png"
         ],
         "url": "https://gitlab.com/William-maillard/DDS",
         "technologies": [
