@@ -360,8 +360,15 @@
         "startDate": "M1 informatique, S2",
         "description":  "Wikibase est une plateforme open source développée par la Wikimedia Foundation pour stocker, gérer et publier des données structurées et liées en utilisant les technologies du Web sémantique telles que RDF (Resource Description Framework) et SPARQL (SPARQL Protocol and RDF Query Language).",
         "images": [
-          "images/M1/alpesTransport.png",
-          ""
+          "images/M1/4_alpestransport/a_presentation.gif",
+          "images/M1/4_alpestransport/b_result.gif",
+          "images/M1/4_alpestransport/c_error.gif",
+          "images/M1/4_alpestransport/d.png",
+          "images/M1/4_alpestransport/e.png",
+          "images/M1/4_alpestransport/f.png",
+          "images/M1/4_alpestransport/g.png",
+          "images/M1/4_alpestransport/h.png",
+          "images/M1/4_alpestransport/i.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1_interoperabilite",
         "technologies": [
