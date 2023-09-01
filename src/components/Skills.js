@@ -26,6 +26,12 @@ class Skills extends Component {
 
     return (
       <section id="skills">
+        <div>Design exemple</div>
+        <h2>This website is in construction, please refer to my linkedIn account or request my Cv for more details about my skills that are not listed below.</h2>
+        <h2>Thanks for your understanding</h2>
+        <a href="https://www.linkedin.com/in/william-maillard">
+          https://www.linkedin.com/in/william-maillard"
+        </a>
         <div className="col-md-12">
           <div className="col-md-12">
             <h1 className="section-title">

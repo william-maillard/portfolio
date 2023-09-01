@@ -15,8 +15,14 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV.",
         "images": [
-          "images/L2/bomberman.png",
-          "images/L2/bomberman.png"
+          "images/L2/1_bomberman/a_presentation.gif",
+          "images/L2/1_bomberman/b_home.png",
+          "images/L2/1_bomberman/c_rules.png",
+          "images/L2/1_bomberman/d_start.png",
+          "images/L2/1_bomberman/e_game.png",
+          "images/L2/1_bomberman/f_explosion.png",
+          "images/L2/1_bomberman/g_end.png",
+          "images/L2/1_bomberman/z_video.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/bomberman",
         "technologies": [
@@ -35,8 +41,7 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "creation of a deterministic finite automaton.",
         "images": [
-          "./",
-          ""
+          "images/L2/2_automates/automates.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
         "technologies": [
@@ -51,8 +56,9 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
         "images": [
-          "images/L2/parenthesised.png",
-          ""
+          "images/L2/3_assembly/a_presentation.gif",
+          "images/L2/3_assembly/b_sujet.png",
+          "images/L2/3_assembly/c_algo.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
         "technologies": [
@@ -71,8 +77,14 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "Graphical representation of the k-ppv search using a tree.",
         "images": [
-          "images/L2/decision-tree.png",
-          ""
+          "images/L2/4_knn/a_presentation.gif",
+          "images/L2/4_knn/b_home.png",
+          "images/L2/4_knn/c_click.png",
+          "images/L2/4_knn/d_click_2.png",
+          "images/L2/4_knn/e_load_file.png",
+          "images/L2/4_knn/f_30nn.png",
+          "images/L2/4_knn/g_tree_cut_plan.png",
+          "images/L2/4_knn/h_tree_cut_plan_decision.png"
         ],
         "url": "https://gitlab.com/William-maillard/kppv-tree",
         "technologies": [
@@ -95,7 +107,7 @@
         "startDate": "2nd year of Computer Science Bachelor",
         "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes.",
         "images": [
-          "images/L2/des-recetes-une-recette.png",
+          "images/L2/5_dw1/b_home.png",
           ""
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
@@ -123,6 +135,25 @@
         ]
       },
       {
+        "title": "Java Drawing app",
+        "startDate": "3rd year of Computer Science Bachelor",
+        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/",
+        "images": [
+          "images/L3/drawing_app.png"
+        ],
+        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "graphic library\nSwing & Awt"
+          }
+        ]
+      },
+      {
         "title": "Wargame",
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a wargame in JAVA and Swing. First Object Oriented project",
@@ -146,8 +177,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
         "images": [
-          "./",
-          ""
+          "images/L3/3_compilation/b_fact.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
         "technologies": [
@@ -186,8 +216,9 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
         "images": [
+          "images/L3/free-steal.gif",
           "images/L3/key.png",
-          ""
+          "images/L3/free-steal.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
         "technologies": [
@@ -262,8 +293,9 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form.",
         "images": [
-          "./",
-          ""
+          "./images/M1/openairbnb_home.jpg",
+          "./images/M1/openairbnb_search.jpg",
+          "./images/M1/openairbnb_lease.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/2022-pwa-d",
         "technologies": [
@@ -375,10 +407,9 @@
       {
         "title": "Handwritten digit recognition",
         "startDate": "1st year of Computer Science Master",
-        "description": "",
+        "description": "Deep learning model for recognizing digits from images of handwritten digits",
         "images": [
-          "",
-          ""
+          "images/M1/6_dl/b_dataset.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
         "technologies": [
@@ -401,8 +432,7 @@
         "startDate": "1st year of Computer Science Master",
         "description": "",
         "images": [
-          "",
-          ""
+          "images/M1/7_ml/b.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
         "technologies": [
@@ -435,7 +465,7 @@
           "Computer science applied to industry",
           "containerisation technologie such as docker and kubernetes",
           "software benchmarking",
-          "implement an innovative architecture from an R&D industrial project"
+          "implement an innovative architecture \nfrom an R&D industrial project"
         ]
       },
       {
