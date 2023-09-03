@@ -396,8 +396,12 @@
         "startDate": "M1 informatique, S2",
         "description":  "Création et sauvegarde de modèles de magasins en 3D chargement et visite d'un magasin avec un méta-humain création d'une base de données neo4j pour stocker les produits (générés avec Java Faker)",
         "images": [
-          "images/M1/ecr.gif",
-          ""
+          "images/M1/5_ecr/a_presentation.gif",
+          "images/M1/5_ecr/1-menu_principal.png",
+          "images/M1/5_ecr/2-0_creation_de_magasin.png",
+          "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
+          "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
+          "images/M1/5_ecr/3-visite_du_magasin_cree.png"
         ],
         "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
         "technologies": [

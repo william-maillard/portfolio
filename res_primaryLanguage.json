@@ -396,8 +396,12 @@
         "startDate": "1st year of Computer Science Master",
         "description":  "creation and saving of 3D shop models loading and visiting a shop with a meta-human creation of a neo4j DB to store products (generated with Java Faker)",
         "images": [
-          "images/M1/ecr.gif",
-          ""
+          "images/M1/5_ecr/a_presentation.gif",
+          "images/M1/5_ecr/1-menu_principal.png",
+          "images/M1/5_ecr/2-0_creation_de_magasin.png",
+          "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
+          "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
+          "images/M1/5_ecr/3-visite_du_magasin_cree.png"
         ],
         "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
         "technologies": [
