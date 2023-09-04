@@ -115,10 +115,21 @@
     },
     "project_management": {
       "icons": [
-                {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+        {
+          "name": "DevOps (CI/CD)",
+          "class": ""
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain"
+        },
+        {
+          "name": "agile method",
+          "class": ""
+        },
+        {
+          "name": "UML diagrams",
+          "class": ""
         }
       ]
     },
