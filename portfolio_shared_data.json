@@ -93,21 +93,68 @@
     "algorithms": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain"
+          "name": "FIFO/LIFO",
+          "class": "devicon-devicon-plain"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain"
+          "name": "hash table",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "graphs",
+          "class": "devicon-graphql-plain"
+        },
+        {
+          "name": "automatons",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "dynamic programming",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "greedy algorithms",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "evolutionary algorithms",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "complexity",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Optimization",
+          "class": "devicon-devicon-plain"
         }
       ]
     },
     "ai": {
       "icons": [
-                {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+        {
+          "name": "Machine Learning",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Deep Learning",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "NLP by keyword",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "NLP prolog",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "NLP : lex/Yacc",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "R : data processing",
+          "class": "devicon-devicon-plain"
         }
       ]
     },
