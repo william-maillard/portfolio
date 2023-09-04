@@ -82,11 +82,11 @@
         },        
         {
           "name": "Web",
-          "class": ""
+          "class": "devicon-devicon-plain"
         },        
         {
           "name": "System",
-          "class": ""
+          "class": "devicon-devicon-plain"
         }
       ]
     },
@@ -94,13 +94,11 @@
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "class": "devicon-html5-plain"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "class": "devicon-css3-plain"
         }
       ]
     },
@@ -117,7 +115,7 @@
       "icons": [
         {
           "name": "DevOps (CI/CD)",
-          "class": ""
+          "class": "devicon-devicon-plain"
         },
         {
           "name": "git",
@@ -125,11 +123,11 @@
         },
         {
           "name": "agile method",
-          "class": ""
+          "class": "devicon-devicon-plain"
         },
         {
           "name": "UML diagrams",
-          "class": ""
+          "class": "devicon-devicon-plain"
         }
       ]
     },
@@ -149,7 +147,7 @@
         },
         {
           "name": "wikibase",
-          "class": ""
+          "class": "devicon-devicon-plain"
         },
         {
           "name": "neo4j",
@@ -165,7 +163,7 @@
         },
         {
           "name": "xml/json/yaml/toml",
-          "class": ""
+          "class": "devicon-devicon-plain"
         },
         {
           "name": "latex",
