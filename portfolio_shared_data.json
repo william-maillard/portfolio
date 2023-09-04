@@ -25,39 +25,68 @@
     "programming": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "name": "python",
+          "class": "devicon-python-plain"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "name": "pytorh",
+          "class": "devicon-pytorch-original"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "name": "Java",
+          "class": "devicon-java-plain"          
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "Spring",
+          "class": "devicon-spring-plain"          
         },
         {
           "name": "C",
-          "class": "devicon-c-plain",
-          "level": "65"
+          "class": "devicon-c-plain"          
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "C++",
+          "class": "devicon-cplusplus-plain"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain"
+        },                  
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "vueJS",
+          "class": "devicon-vuejs-plain"
         },
         {
           "name": "React",
-          "class": "devicon-react-plain",
-          "level": "60"
+          "class": "devicon-react-plain"
+        },        
+        {
+          "name": "Web",
+          "class": ""
+        },        
+        {
+          "name": "System",
+          "class": ""
         }
       ]
     },
@@ -95,19 +124,45 @@
     },
     "database": {
       "icons": [
-                {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "Jdbc",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "JPA",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "wikibase",
+          "class": ""
+        },
+        {
+          "name": "neo4j",
+          "class": "devicon-neo4j-plain"
         }
       ]
     },
     "various": {
       "icons": [
                 {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "name": "Anglais C1",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "xml/json/yaml/toml",
+          "class": ""
+        },
+        {
+          "name": "latex",
+          "class": "devicon-latex-original"
+        },
+        {
+          "name": "Unreal Engine 5.1",
+          "class": "devicon-unrealengine-original"
         }
       ]
     }
