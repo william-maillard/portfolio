@@ -156,7 +156,7 @@
       {
         "title": "Wargame",
         "startDate": "L3 informatique, S1",
-        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets",
+        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets. Démo dans le navigateur sur https://william-maillard.github.io/wargame/",
         "images": [
           "images/L3/2_wargame/b_home.png"
         ],

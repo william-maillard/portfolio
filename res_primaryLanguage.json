@@ -175,7 +175,7 @@
       {
         "title": "Compilation",
         "startDate": "3rd year of Computer Science Bachelor",
-        "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
+        "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine. Live demo at https://william-maillard.github.io/wargame/",
         "images": [
           "images/L3/3_compilation/b_fact.png"
         ],
