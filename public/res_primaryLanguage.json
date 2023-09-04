@@ -139,7 +139,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/",
         "images": [
-          "images/L3/drawing_app.png"
+          "images/L3/1_drawing_app/drawing_app.png"
         ],
         "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "technologies": [
@@ -156,9 +156,9 @@
       {
         "title": "Wargame",
         "startDate": "3rd year of Computer Science Bachelor",
-        "description": "Create a wargame in JAVA and Swing. First Object Oriented project",
+        "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/",
         "images": [
-          "images/L3/poo.png"
+          "images/L3/2_wargame/b_home.png"
         ],
         "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "technologies": [
@@ -293,9 +293,10 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form.",
         "images": [
-          "./images/M1/openairbnb_home.jpg",
-          "./images/M1/openairbnb_search.jpg",
-          "./images/M1/openairbnb_lease.jpg"
+          "./images/M1/1_openairbnb/b_home.png",
+          "./images/M1/1_openairbnb/c_results.png",
+          "./images/M1/1_openairbnb/d_results.png",
+          "./images/M1/1_openairbnb/e_login.png"
         ],
         "url": "https://gitlab.com/William-maillard/2022-pwa-d",
         "technologies": [
@@ -306,8 +307,11 @@
           {
             "class": "devicon-spring-plain",
             "name": "Spring framework"
-          }
-          ,
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Thymleaf"
+          },
           {
             "class": "devicon-vuejs-plain",
             "name": "vueJS"
@@ -323,8 +327,7 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The project aims to program many algorithms to solve the 0/1 knapsack problem and make a study about their running time and the quality of their solution.",
         "images": [
-          "./",
-          ""
+          "images/M1/2_knapsack_pbm/b_results.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
         "technologies": [
@@ -343,6 +346,7 @@
         "startDate": "1st year of Computer Science Master",
         "description": "The aim of the project is to extract data from a company's timesheets. These documents are received by the application in .ods (Open Document Spreadsheet) format. The extracted data will be stored in a database, whose entity-association schema is provided in appendix 1, so that it can be used to respond to queries from a business application. The application will be able to request information about employees and current projects. These requests will be configurable. Each parameter will have a default value, making them all optional.",
         "images": [
+          "images/M1/3_dds/b_home.png"
         ],
         "url": "https://gitlab.com/William-maillard/DDS",
         "technologies": [
@@ -361,8 +365,15 @@
         "startDate": "1st year of Computer Science Master",
         "description":  "Wikibase is an open-source platform developed by the Wikimedia Foundation for storing, managing and publishing structured and linked data using Semantic Web technologies such as RDF (Resource Description Framework) and SPARQL (SPARQL Protocol and RDF Query Language).",
         "images": [
-          "images/M1/alpesTransport.png",
-          ""
+          "images/M1/4_alpestransport/a_presentation.gif",
+          "images/M1/4_alpestransport/b_result.gif",
+          "images/M1/4_alpestransport/c_error.gif",
+          "images/M1/4_alpestransport/d.png",
+          "images/M1/4_alpestransport/e.png",
+          "images/M1/4_alpestransport/f.png",
+          "images/M1/4_alpestransport/g.png",
+          "images/M1/4_alpestransport/h.png",
+          "images/M1/4_alpestransport/i.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1_interoperabilite",
         "technologies": [
@@ -385,8 +396,12 @@
         "startDate": "1st year of Computer Science Master",
         "description":  "creation and saving of 3D shop models loading and visiting a shop with a meta-human creation of a neo4j DB to store products (generated with Java Faker)",
         "images": [
-          "images/M1/ecr.gif",
-          ""
+          "images/M1/5_ecr/a_presentation.gif",
+          "images/M1/5_ecr/1-menu_principal.png",
+          "images/M1/5_ecr/2-0_creation_de_magasin.png",
+          "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
+          "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
+          "images/M1/5_ecr/3-visite_du_magasin_cree.png"
         ],
         "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
         "technologies": [

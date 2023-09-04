@@ -139,7 +139,7 @@
         "startDate": "L3 informatique, S1",
         "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO. Démonstration en direct sur : https://william-maillard.github.io/drawing_app/",
         "images": [
-          "images/L3/drawing_app.png"
+          "images/L3/1_drawing_app/drawing_app.png"
         ],
         "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "technologies": [
@@ -156,9 +156,9 @@
       {
         "title": "Wargame",
         "startDate": "L3 informatique, S1",
-        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets",
+        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets. Démo dans le navigateur sur https://william-maillard.github.io/wargame/",
         "images": [
-          "images/L3/poo.png"
+          "images/L3/2_wargame/b_home.png"
         ],
         "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "technologies": [
@@ -216,8 +216,9 @@
         "startDate": "L3 informatique, S2",
         "description": "Sujet : Créer un jeu multijoueur à jouer dans un cinéma avant la projection d'un film (environ une centaine de personnes). Réalisé : Jeu multijoueur où vous déplacez un personnage avec votre téléphone (manette sur un site web), vous devez collecter autant de clés que possible dans le temps imparti pour gagner. Méfiez-vous des ennemis et des autres joueurs qui peuvent tirer des missiles. Déploiement : Projection en mai 2022 au cinéma Méliez à Saint-Étienne.",
         "images": [
+          "images/L3/free-steal.gif",
           "images/L3/key.png",
-          ""
+          "images/L3/free-steal.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
         "technologies": [
@@ -292,9 +293,10 @@
         "startDate": "M1 informatique, S1",
         "description": "Le projet vise à fournir une application Web open source pour louer (du côté du propriétaire et du locataire) le logement d'un particulier. L'application permettra la recherche de locations par emplacement et de nombreux autres filtres tels que les expériences (cabane dans les arbres, ferme, ...), les fonctionnalités (fourniture de draps, machine à laver, acceptation des animaux de compagnie, ...), ... Et si nous avons le temps, nous essaierons d'étendre la recherche sur une carte, en plus du formulaire.",
         "images": [
-          "./images/M1/openairbnb_home.jpg",
-          "./images/M1/openairbnb_search.jpg",
-          "./images/M1/openairbnb_lease.jpg"
+          "./images/M1/1_openairbnb/b_home.png",
+          "./images/M1/1_openairbnb/c_results.png",
+          "./images/M1/1_openairbnb/d_results.png",
+          "./images/M1/1_openairbnb/e_login.png"
         ],
         "url": "https://gitlab.com/William-maillard/2022-pwa-d",
         "technologies": [
@@ -305,8 +307,11 @@
           {
             "class": "devicon-spring-plain",
             "name": "Spring framework"
-          }
-          ,
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Thymleaf"
+          },
           {
             "class": "devicon-vuejs-plain",
             "name": "vueJS"
@@ -322,8 +327,7 @@
         "startDate": "M1 informatique, S1",
          "description": "Le projet vise à programmer plusieurs algorithmes pour résoudre le Problème du Sac à Dos 0/1 et à réaliser une étude sur leur temps d'exécution et la qualité de leur solution.",
         "images": [
-          "./",
-          ""
+          "images/M1/2_knapsack_pbm/b_results.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
         "technologies": [
@@ -342,6 +346,7 @@
         "startDate": "M1 informatique, S1",
         "description": "L'objectif du projet est d'extraire des données des feuilles de temps d'une entreprise. Ces documents sont reçus par l'application au format .ods (tableur Open Document). Les données extraites seront stockées dans une base de données, dont le schéma entité-association est fourni en annexe 1, afin qu'elles puissent être utilisées pour répondre aux requêtes d'une application métier. L'application pourra demander des informations sur les employés et les projets en cours. Ces requêtes seront configurables. Chaque paramètre aura une valeur par défaut, les rendant tous optionnels.",
         "images": [
+          "images/M1/3_dds/b_home.png"
         ],
         "url": "https://gitlab.com/William-maillard/DDS",
         "technologies": [
@@ -360,8 +365,15 @@
         "startDate": "M1 informatique, S2",
         "description":  "Wikibase est une plateforme open source développée par la Wikimedia Foundation pour stocker, gérer et publier des données structurées et liées en utilisant les technologies du Web sémantique telles que RDF (Resource Description Framework) et SPARQL (SPARQL Protocol and RDF Query Language).",
         "images": [
-          "images/M1/alpesTransport.png",
-          ""
+          "images/M1/4_alpestransport/a_presentation.gif",
+          "images/M1/4_alpestransport/b_result.gif",
+          "images/M1/4_alpestransport/c_error.gif",
+          "images/M1/4_alpestransport/d.png",
+          "images/M1/4_alpestransport/e.png",
+          "images/M1/4_alpestransport/f.png",
+          "images/M1/4_alpestransport/g.png",
+          "images/M1/4_alpestransport/h.png",
+          "images/M1/4_alpestransport/i.png"
         ],
         "url": "https://gitlab.com/William-maillard/m1_interoperabilite",
         "technologies": [
@@ -384,8 +396,12 @@
         "startDate": "M1 informatique, S2",
         "description":  "Création et sauvegarde de modèles de magasins en 3D chargement et visite d'un magasin avec un méta-humain création d'une base de données neo4j pour stocker les produits (générés avec Java Faker)",
         "images": [
-          "images/M1/ecr.gif",
-          ""
+          "images/M1/5_ecr/a_presentation.gif",
+          "images/M1/5_ecr/1-menu_principal.png",
+          "images/M1/5_ecr/2-0_creation_de_magasin.png",
+          "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
+          "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
+          "images/M1/5_ecr/3-visite_du_magasin_cree.png"
         ],
         "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
         "technologies": [
