@@ -87,6 +87,10 @@
         {
           "name": "System",
           "class": "devicon-devicon-plain"
+        },        
+        {
+          "name": "Rust",
+          "class": "devicon-rust-plain"
         }
       ]
     },
