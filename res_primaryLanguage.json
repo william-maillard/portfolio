@@ -13,7 +13,7 @@
       {
         "title": "Bomberman",
         "startDate": "2nd year of Computer Science Bachelor",
-        "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV.",
+        "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV. Live demo at: https://william-maillard.github.io/bomberman/",
         "images": [
           "images/L2/1_bomberman/a_presentation.gif",
           "images/L2/1_bomberman/b_home.png",
