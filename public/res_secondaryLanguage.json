@@ -1,7 +1,7 @@
 {
     "basic_info": {
     "description_header": "Salut 👋",
-    "description": "🔎 À la recherche d'un stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois)",
+    "description": "🔎 À la recherche d'un stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois).",
     "section_name": {
     "about": "À propos de moi",
     "projects": "Projets",
@@ -13,7 +13,7 @@
       {
         "title": "Bomberman",
         "startDate": "L2 informatique, S1",
-        "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV.",
+        "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV. Démo dans le navigateur: https://william-maillard.github.io/bomberman/",
         "images": [
           "images/L2/1_bomberman/a_presentation.gif",
           "images/L2/1_bomberman/b_home.png",

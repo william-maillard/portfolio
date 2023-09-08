@@ -1,63 +1,230 @@
 {
-    "basic_info": {
-      "name": "MAILLARD William",
-      "titles": [ "Master 2 Informatique", "Données et Systèmes connectés", "AI and big data", "(Industrial) Internet Of Things", "cybersecurity", "web and software development" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/william-maillard",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "gitlab",
-          "url": "https://gitlab.com/william-maillard",
-          "class": "fab fa-gitlab"
-        },
-        {
-          "name": "linkedIn",
-          "url": "https://www.linkedin.com/in/william-maillard/",
-          "class": "fab fa-linkedin"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
+  "basic_info": {
+    "name": "MAILLARD William",
+    "titles": [ "Master 2 Informatique", "Données et Systèmes connectés", "AI and big data", "(Industrial) Internet Of Things", "cybersecurity", "web and software development" ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/william-maillard",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "gitlab",
+        "url": "https://gitlab.com/william-maillard",
+        "class": "fab fa-gitlab"
+      },
+      {
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/william-maillard/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills" : {
+    "programming": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "name": "python",
+          "class": "devicon-python-plain"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "name": "pytorh",
+          "class": "devicon-pytorch-original"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "name": "Java",
+          "class": "devicon-java-plain"          
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "Spring",
+          "class": "devicon-spring-plain"          
         },
         {
           "name": "C",
-          "class": "devicon-c-plain",
-          "level": "65"
+          "class": "devicon-c-plain"          
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "C++",
+          "class": "devicon-cplusplus-plain"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain"
+        },                  
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "vueJS",
+          "class": "devicon-vuejs-plain"
         },
         {
           "name": "React",
-          "class": "devicon-react-plain",
-          "level": "60"
+          "class": "devicon-react-plain"
+        },        
+        {
+          "name": "Web",
+          "class": "devicon-devicon-plain"
+        },        
+        {
+          "name": "System",
+          "class": "devicon-devicon-plain"
+        },        
+        {
+          "name": "Rust",
+          "class": "devicon-rust-plain"
+        }
+      ]
+    },
+    "algorithms": {
+      "icons": [
+        {
+          "name": "FIFO/LIFO",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "hash table",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "graphs",
+          "class": "devicon-graphql-plain"
+        },
+        {
+          "name": "automatons",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "dynamic programming",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "greedy algorithms",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "evolutionary algorithms",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "complexity",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Optimization",
+          "class": "devicon-devicon-plain"
+        }
+      ]
+    },
+    "ai": {
+      "icons": [
+        {
+          "name": "Machine Learning",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Deep Learning",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "NLP by keyword",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "NLP prolog",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "NLP : lex/Yacc",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "R : data processing",
+          "class": "devicon-devicon-plain"
+        }
+      ]
+    },
+    "project_management": {
+      "icons": [
+        {
+          "name": "DevOps (CI/CD)",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain"
+        },
+        {
+          "name": "agile method",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "UML diagrams",
+          "class": "devicon-devicon-plain"
+        }
+      ]
+    },
+    "database": {
+      "icons": [
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "Jdbc",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "JPA",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "wikibase",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "neo4j",
+          "class": "devicon-neo4j-plain"
+        }
+      ]
+    },
+    "various": {
+      "icons": [
+                {
+          "name": "Anglais C1",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "xml/json/yaml/toml",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "latex",
+          "class": "devicon-latex-original"
+        },
+        {
+          "name": "Unreal Engine 5.1",
+          "class": "devicon-unrealengine-original"
         }
       ]
     }
   }
+}
