@@ -105,12 +105,12 @@
       {
         "title": "Des restes Une recette",
         "startDate": "2nd year of Computer Science Bachelor",
-        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes. Website availible at https://desrestesunerecette.000webhostapp.com/",
+        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes. Website availible at https://desrestesunerecette.000webhostapp.com/. Source code : https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
         "images": [
           "images/L2/5_dw1/b_home.png",
           ""
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-html5-plain",
