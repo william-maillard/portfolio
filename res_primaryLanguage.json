@@ -108,7 +108,7 @@
         "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes. Website availible at https://desrestesunerecette.000webhostapp.com/. Source code : https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
         "images": [
           "images/L2/5_dw1/b_home.png",
-          ""
+          "images/L2/5_dw1/d_result.png"
         ],
         "url": "https://desrestesunerecette.000webhostapp.com/",
         "technologies": [
@@ -137,11 +137,11 @@
       {
         "title": "Java Drawing app",
         "startDate": "3rd year of Computer Science Bachelor",
-        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/",
+        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
           "images/L3/1_drawing_app/drawing_app.png"
         ],
-        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
           {
             "class": "devicon-java-plain",
