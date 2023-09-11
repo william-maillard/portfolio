@@ -445,11 +445,11 @@
       {
         "title": "HMM sentiment analysis",
         "startDate": "1st year of Computer Science Master",
-        "description": "",
+        "description": "Practical work on machine learning with sikit-learn based on the practical sessions of the course, followed by a project on sentiment analysis using a hidden Markov model. Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
         "images": [
           "images/M1/7_ml/b.jpg"
         ],
-        "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",

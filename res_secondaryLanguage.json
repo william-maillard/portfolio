@@ -444,11 +444,11 @@
       {
         "title": "HMM sentiment analysis",
         "startDate": "M1 informatique, S2",
-        "description": "",
+        "description": "Travaux pratiques sur le machine learning avec sikit-learn à partir des sessions pratiques du cours, puis d'un projet sur l'analyse des sentiments à l'aide d'un Hidden Markov Model(HMM). Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
         "images": [
           "images/M1/7_ml/b.jpg"
         ],
-        "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",
