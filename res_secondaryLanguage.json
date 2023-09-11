@@ -421,11 +421,11 @@
       {
         "title": "Reconnaissance de chiffres manuscrits",
         "startDate": "M1 informatique, S2",
-        "description": "Modèle d'apprentissage profond pour reconnaitre des chiffres à partir d'images de chiffres écrits à la main.",
+        "description": "L'objectif de ce projet était d'entraîner et d'afiner un modèle d'apprentissage profond pour reconnaitre des chiffres à partir d'images de chiffres écrits à la main. Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
         "images": [
           "images/M1/6_dl/b_dataset.png"
         ],
-        "url": "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
+        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",
