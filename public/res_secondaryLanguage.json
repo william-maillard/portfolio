@@ -13,7 +13,7 @@
       {
         "title": "Bomberman",
         "startDate": "L2 informatique, S1",
-        "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV. Démo dans le navigateur: https://william-maillard.github.io/bomberman/",
+        "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV. Démo dans le navigateur: https://william-maillard.github.io/bomberman/. Code source à: https://gitlab.com/William-maillard/bomberman",
         "images": [
           "images/L2/1_bomberman/a_presentation.gif",
           "images/L2/1_bomberman/b_home.png",
@@ -24,7 +24,7 @@
           "images/L2/1_bomberman/g_end.png",
           "images/L2/1_bomberman/z_video.mp4"
         ],
-        "url": "https://gitlab.com/William-maillard/bomberman",
+        "url": "https://william-maillard.github.io/bomberman/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -105,12 +105,12 @@
       {
         "title": "Des restes Une recette",
         "startDate": "L2 informatique, S2",
-        "description": "'Des restes Une recette' est un site web qui vous permet de rechercher une recette en fonction des restes dans votre réfrigérateur. Les membres connectés peuvent voter pour leurs recettes préférées.",
+        "description": "'Des restes Une recette' est un site web qui vous permet de rechercher une recette en fonction des restes dans votre réfrigérateur. Les membres connectés peuvent voter pour leurs recettes préférées. Site disponible à : https://desrestesunerecette.000webhostapp.com/. Code source : https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
         "images": [
           "images/L2/5_dw1/b_home.png",
-          ""
+          "images/L2/5_dw1/d_result.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+        "url": "https://desrestesunerecette.000webhostapp.com/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -137,11 +137,11 @@
       {
         "title": "Java application de dessins",
         "startDate": "L3 informatique, S1",
-        "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO. Démonstration en direct sur : https://william-maillard.github.io/drawing_app/",
+        "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO. Démonstration en direct sur : https://william-maillard.github.io/drawing_app/. Code source à : https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
           "images/L3/1_drawing_app/drawing_app.png"
         ],
-        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -156,11 +156,10 @@
       {
         "title": "Wargame",
         "startDate": "L3 informatique, S1",
-        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets. Démo dans le navigateur sur https://william-maillard.github.io/wargame/",
-        "images": [
+        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets. Démo dans le navigateur sur https://william-maillard.github.io/wargame/. Code source à: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",        "images": [
           "images/L3/2_wargame/b_home.png"
         ],
-        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "url": "https://william-maillard.github.io/wargame/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -445,11 +444,11 @@
       {
         "title": "HMM sentiment analysis",
         "startDate": "M1 informatique, S2",
-        "description": "",
+        "description": "Travaux pratiques sur le machine learning avec sikit-learn à partir des sessions pratiques du cours, puis d'un projet sur l'analyse des sentiments à l'aide d'un Hidden Markov Model(HMM). Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
         "images": [
           "images/M1/7_ml/b.jpg"
         ],
-        "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",

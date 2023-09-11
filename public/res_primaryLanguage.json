@@ -13,7 +13,7 @@
       {
         "title": "Bomberman",
         "startDate": "2nd year of Computer Science Bachelor",
-        "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV. Live demo at: https://william-maillard.github.io/bomberman/",
+        "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV. Live demo at: https://william-maillard.github.io/bomberman/. Source code at: https://gitlab.com/William-maillard/bomberman",
         "images": [
           "images/L2/1_bomberman/a_presentation.gif",
           "images/L2/1_bomberman/b_home.png",
@@ -24,7 +24,7 @@
           "images/L2/1_bomberman/g_end.png",
           "images/L2/1_bomberman/z_video.mp4"
         ],
-        "url": "https://gitlab.com/William-maillard/bomberman",
+        "url": "https://william-maillard.github.io/bomberman/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -105,12 +105,12 @@
       {
         "title": "Des restes Une recette",
         "startDate": "2nd year of Computer Science Bachelor",
-        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes.",
+        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes. Website availible at https://desrestesunerecette.000webhostapp.com/. Source code : https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
         "images": [
           "images/L2/5_dw1/b_home.png",
-          ""
+          "images/L2/5_dw1/d_result.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+        "url": "https://desrestesunerecette.000webhostapp.com/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -137,11 +137,11 @@
       {
         "title": "Java Drawing app",
         "startDate": "3rd year of Computer Science Bachelor",
-        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/",
+        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
           "images/L3/1_drawing_app/drawing_app.png"
         ],
-        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -156,11 +156,11 @@
       {
         "title": "Wargame",
         "startDate": "3rd year of Computer Science Bachelor",
-        "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/",
+        "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
           "images/L3/2_wargame/b_home.png"
         ],
-        "url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "url": "https://william-maillard.github.io/wargame/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -445,11 +445,11 @@
       {
         "title": "HMM sentiment analysis",
         "startDate": "1st year of Computer Science Master",
-        "description": "",
+        "description": "Practical work on machine learning with sikit-learn based on the practical sessions of the course, followed by a project on sentiment analysis using a hidden Markov model. Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
         "images": [
           "images/M1/7_ml/b.jpg"
         ],
-        "url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",
