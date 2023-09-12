@@ -290,14 +290,14 @@
       {
         "title": "OpenAirbnb",
         "startDate": "M1 informatique, S1",
-        "description": "Le projet vise à fournir une application Web open source pour louer (du côté du propriétaire et du locataire) le logement d'un particulier. L'application permettra la recherche de locations par emplacement et de nombreux autres filtres tels que les expériences (cabane dans les arbres, ferme, ...), les fonctionnalités (fourniture de draps, machine à laver, acceptation des animaux de compagnie, ...), ... Et si nous avons le temps, nous essaierons d'étendre la recherche sur une carte, en plus du formulaire.",
+        "description": "Le projet vise à fournir une application Web open source pour louer (du côté du propriétaire et du locataire) le logement d'un particulier. L'application permettra la recherche de locations par emplacement et de nombreux autres filtres tels que les expériences (cabane dans les arbres, ferme, ...), les fonctionnalités (fourniture de draps, machine à laver, acceptation des animaux de compagnie, ...), ... Et si nous avons le temps, nous essaierons d'étendre la recherche sur une carte, en plus du formulaire. Déployé sur https://william-openairbnb.onrender.com/ , code source sur https://gitlab.com/William-maillard/2022-pwa-d",
         "images": [
           "./images/M1/1_openairbnb/b_home.png",
           "./images/M1/1_openairbnb/c_results.png",
           "./images/M1/1_openairbnb/d_results.png",
           "./images/M1/1_openairbnb/e_login.png"
         ],
-        "url": "https://gitlab.com/William-maillard/2022-pwa-d",
+        "url": "https://william-openairbnb.onrender.com/",
         "technologies": [
           {
             "class": "devicon-java-plain",
