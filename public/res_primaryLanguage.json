@@ -135,6 +135,33 @@
         ]
       },
       {
+        "title": "Graph theory",
+        "startDate": "2nd year of Computer Science Bachelor",
+        "description": "Implementation of algorithm seen during the course graph theory like : topological sorting, width/depth graph visit, find minimum path length, minimum spanning tree (Prim and Kruskal), minimum weight path (Dijkstra).",
+        "images": [
+          "images/L2/6_graph/width_graph_visit.gif",
+          "images/L2/6_graph/depth_graph_visit.gif",
+          "images/L2/6_graph/dijkstra.gif",
+          "images/L2/6_graph/graphe_113_villes.svg"
+         
+        ],
+        "url": "https://gitlab.com/William-maillard/graph-traversal",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "bash"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "graph theory"
+          }
+        ]
+      },
+      {
         "title": "Java Drawing app",
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
@@ -291,14 +318,14 @@
       {
         "title": "OpenAirbnb",
         "startDate": "1st year of Computer Science Master",
-        "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form.",
+        "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form. Deploy at https://william-openairbnb.onrender.com/ , source code at https://gitlab.com/William-maillard/2022-pwa-d",
         "images": [
           "./images/M1/1_openairbnb/b_home.png",
           "./images/M1/1_openairbnb/c_results.png",
           "./images/M1/1_openairbnb/d_results.png",
           "./images/M1/1_openairbnb/e_login.png"
         ],
-        "url": "https://gitlab.com/William-maillard/2022-pwa-d",
+        "url": "https://william-openairbnb.onrender.com/",
         "technologies": [
           {
             "class": "devicon-java-plain",
