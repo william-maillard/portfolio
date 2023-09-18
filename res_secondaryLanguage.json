@@ -135,6 +135,33 @@
         ]
       },
       {
+        "title": "Théorie des graphes",
+        "startDate": "L2 informatique, S2",
+        "description":  "Implémentation d'algorithmes vus pendant le cours de théorie des graphes comme : tri topologique, visite de graphes largeur/profondeur, recherche de la longueur minimale d'un chemin, arbre minimal (Prim et Kruskal), chemin à poids minimal (Dijkstra).",
+        "images": [
+          "images/L2/6_graph/width_graph_visit.gif",
+          "images/L2/6_graph/depth_graph_visit.gif",
+          "images/L2/6_graph/dijkstra.gif",
+          "images/L2/6_graph/graphe_113_villes.svg"
+         
+        ],
+        "url": "https://gitlab.com/William-maillard/graph-traversal",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "bash"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "graphes"
+          }
+        ]
+      },
+      {
         "title": "Java application de dessins",
         "startDate": "L3 informatique, S1",
         "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO. Démonstration en direct sur : https://william-maillard.github.io/drawing_app/. Code source à : https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",

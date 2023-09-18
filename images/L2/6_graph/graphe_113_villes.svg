@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1500" height="850">
+<rect x="0" y="0" width="1500" height="850" fill="white" /><text x="95" y="245" font-size="14"> Brest </text>
+<text x="131" y="280" font-size="14"> Quimper </text>
+<text x="198" y="302" font-size="14"> Lorient  </text>
+<text x="252" y="233" font-size="14"> St-Brieuc  </text>
+<text x="254" y="310" font-size="14"> Vannes  </text>
+<text x="302" y="344" font-size="14"> St Nazaire  </text>
+<text x="350" y="271" font-size="14"> Rennes  </text>
+<text x="354" y="133" font-size="14"> Cherbourg  </text>
+<text x="357" y="349" font-size="14"> Nantes  </text>
+<text x="365" y="403" font-size="14"> La-Roche-sur-Yon  </text>
+<text x="368" y="685" font-size="14"> Bayonne  </text>
+<text x="395" y="445" font-size="14"> La Rochelle  </text>
+<text x="402" y="179" font-size="14"> St-Lo  </text>
+<text x="432" y="274" font-size="14"> Laval  </text>
+<text x="449" y="565" font-size="14"> Bordeaux  </text>
+<text x="452" y="326" font-size="14"> Angers  </text>
+<text x="455" y="649" font-size="14"> Mont-de-Marsan  </text>
+<text x="459" y="431" font-size="14"> Niort  </text>
+<text x="467" y="703" font-size="14"> Pau  </text>
+<text x="467" y="173" font-size="14"> Caen  </text>
+<text x="507" y="242" font-size="14"> Alençon  </text>
+<text x="507" y="709" font-size="14"> Tarbes  </text>
+<text x="509" y="145" font-size="14"> Le Havre  </text>
+<text x="515" y="490" font-size="14"> Angouleme  </text>
+<text x="518" y="280" font-size="14"> Le Mans  </text>
+<text x="529" y="407" font-size="14"> Poitiers  </text>
+<text x="538" y="598" font-size="14"> Cahors  </text>
+<text x="554" y="685" font-size="14"> Auch  </text>
+<text x="556" y="622" font-size="14"> Agen  </text>
+<text x="563" y="335" font-size="14"> Tours  </text>
+<text x="565" y="532" font-size="14"> Perigueux  </text>
+<text x="597" y="107" font-size="14"> Dieppe  </text>
+<text x="597" y="151" font-size="14"> Rouen  </text>
+<text x="606" y="185" font-size="14"> Evreux  </text>
+<text x="612" y="475" font-size="14"> Limoges  </text>
+<text x="619" y="638" font-size="14"> Montauban  </text>
+<text x="619" y="316" font-size="14"> Blois  </text>
+<text x="630" y="674" font-size="14"> Toulouse  </text>
+<text x="635" y="239" font-size="14"> Chartres  </text>
+<text x="642" y="734" font-size="14"> Foix  </text>
+<text x="651" y="386" font-size="14"> Chateauroux  </text>
+<text x="659" y="526" font-size="14"> Tulle  </text>
+<text x="666" y="91" font-size="14"> Abbeville  </text>
+<text x="667" y="445" font-size="14"> Gueret  </text>
+<text x="671" y="289" font-size="14"> Orleans  </text>
+<text x="684" y="349" font-size="14"> Vierzon  </text>
+<text x="687" y="185" font-size="14"> Pontoise  </text>
+<text x="687" y="151" font-size="14"> Beauvais  </text>
+<text x="691" y="208" font-size="14"> Versailles  </text>
+<text x="692" y="646" font-size="14"> Albi  </text>
+<text x="699" y="200" font-size="14"> Nanterre  </text>
+<text x="707" y="109" font-size="14"> Amiens  </text>
+<text x="709" y="205" font-size="14"> Paris  </text>
+<text x="714" y="362" font-size="14"> Bourges  </text>
+<text x="711" y="710" font-size="14"> Carcassonne  </text>
+<text x="714" y="7" font-size="14"> Dunkerque  </text>
+<text x="718" y="556" font-size="14"> Aurillac  </text>
+<text x="720" y="197" font-size="14"> Bobigny  </text>
+<text x="722" y="209" font-size="14"> Créteil  </text>
+<text x="730" y="232" font-size="14"> Melun  </text>
+<text x="731" y="223" font-size="14"> Evry  </text>
+<text x="731" y="608" font-size="14"> Rodez  </text>
+<text x="734" y="430" font-size="14"> Montlucon  </text>
+<text x="749" y="74" font-size="14"> Arras  </text>
+<text x="754" y="61" font-size="14"> Lens  </text>
+<text x="761" y="757" font-size="14"> Perpignan  </text>
+<text x="777" y="41" font-size="14"> Lille  </text>
+<text x="777" y="479" font-size="14"> Clermont-Ferrand  </text>
+<text x="783" y="370" font-size="14"> Nevers  </text>
+<text x="799" y="409" font-size="14"> Moulins  </text>
+<text x="815" y="592" font-size="14"> Mende  </text>
+<text x="822" y="298" font-size="14"> Auxerre  </text>
+<text x="825" y="139" font-size="14"> Laon  </text>
+<text x="849" y="676" font-size="14"> Montpellier  </text>
+<text x="849" y="545" font-size="14"> Le Puy  </text>
+<text x="851" y="325" font-size="14"> Avallon  </text>
+<text x="862" y="167" font-size="14"> Reims  </text>
+<text x="867" y="253" font-size="14"> Troyes  </text>
+<text x="867" y="457" font-size="14"> Roanne  </text>
+<text x="891" y="685" font-size="14"> Nimes  </text>
+<text x="893" y="193" font-size="14"> Chalons-S-Marne  </text>
+<text x="894" y="511" font-size="14"> St-Etienne  </text>
+<text x="914" y="574" font-size="14"> Privas  </text>
+<text x="925" y="121" font-size="14"> Meziéres  </text>
+<text x="932" y="646" font-size="14"> Avignon  </text>
+<text x="934" y="481" font-size="14"> Lyon  </text>
+<text x="934" y="523" font-size="14"> Macon  </text>
+<text x="941" y="556" font-size="14"> Valence  </text>
+<text x="952" y="340" font-size="14"> Dijon  </text>
+<text x="961" y="269" font-size="14"> Chaumont  </text>
+<text x="965" y="211" font-size="14"> Bar-le-Duc  </text>
+<text x="969" y="442" font-size="14"> Bourg  </text>
+<text x="983" y="703" font-size="14"> Marseille  </text>
+<text x="999" y="398" font-size="14"> Lons-le-Saunier  </text>
+<text x="1014" y="533" font-size="14"> Grenoble  </text>
+<text x="1032" y="719" font-size="14"> Toulon  </text>
+<text x="1032" y="499" font-size="14"> Chambéry  </text>
+<text x="1038" y="347" font-size="14"> Besancon  </text>
+<text x="1047" y="590" font-size="14"> Gap  </text>
+<text x="1050" y="469" font-size="14"> Annecy  </text>
+<text x="1056" y="179" font-size="14"> Metz  </text>
+<text x="1053" y="313" font-size="14"> Vesoul  </text>
+<text x="1058" y="217" font-size="14"> Nancy  </text>
+<text x="1060" y="632" font-size="14"> Digne  </text>
+<text x="1082" y="265" font-size="14"> Epinal  </text>
+<text x="1118" y="313" font-size="14"> Belfort  </text>
+<text x="1130" y="680" font-size="14"> Cannes  </text>
+<text x="1154" y="667" font-size="14"> Nice  </text>
+<text x="1161" y="272" font-size="14"> Colmar  </text>
+<text x="1161" y="302" font-size="14"> Mulhouse  </text>
+<text x="1197" y="227" font-size="14"> Strasbourg  </text>
+<text x="1284" y="827" font-size="14"> Ajaccio  </text>
+<text x="1348" y="758" font-size="14"> Bastia  </text>
+<line x1="730" y1="232" x2="731" y2="223" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="691" y1="208" x2="699" y2="200" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="699" y1="200" x2="709" y2="205" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="720" y1="197" x2="722" y2="209" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="709" y1="205" x2="720" y2="197" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="749" y1="74" x2="754" y2="61" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="722" y1="209" x2="731" y2="223" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="687" y1="185" x2="699" y2="200" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1130" y1="680" x2="1154" y2="667" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="538" y1="598" x2="556" y2="622" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="754" y1="61" x2="777" y2="41" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1161" y1="272" x2="1161" y2="302" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="684" y1="349" x2="714" y2="362" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="914" y1="574" x2="941" y2="556" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="687" y1="185" x2="687" y2="151" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="934" y1="523" x2="941" y2="556" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="597" y1="151" x2="606" y2="185" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1032" y1="499" x2="1050" y2="469" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="619" y1="638" x2="630" y2="674" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1038" y1="347" x2="1053" y2="313" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1014" y1="533" x2="1032" y2="499" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1056" y1="179" x2="1058" y2="217" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="467" y1="703" x2="507" y2="709" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="507" y1="242" x2="518" y2="280" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="822" y1="298" x2="851" y2="325" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="862" y1="167" x2="893" y2="193" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="783" y1="370" x2="799" y2="409" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="894" y1="511" x2="934" y2="523" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="597" y1="107" x2="597" y2="151" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="849" y1="676" x2="891" y2="685" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="934" y1="481" x2="934" y2="523" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="666" y1="91" x2="707" y2="109" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1047" y1="590" x2="1060" y2="632" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1118" y1="313" x2="1161" y2="302" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="687" y1="151" x2="707" y2="109" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="825" y1="139" x2="862" y2="167" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="95" y1="245" x2="131" y2="280" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="467" y1="173" x2="509" y2="145" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="651" y1="386" x2="684" y2="349" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="365" y1="403" x2="395" y2="445" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="507" y1="709" x2="554" y2="685" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="934" y1="481" x2="969" y2="442" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="983" y1="703" x2="1032" y2="719" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="969" y1="442" x2="999" y2="398" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="302" y1="344" x2="357" y2="349" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="357" y1="349" x2="365" y2="403" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="455" y1="649" x2="467" y2="703" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="692" y1="646" x2="731" y2="608" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="718" y1="556" x2="731" y2="608" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1058" y1="217" x2="1082" y2="265" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="707" y1="109" x2="749" y2="74" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="198" y1="302" x2="254" y2="310" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="432" y1="274" x2="452" y2="326" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="849" y1="545" x2="894" y2="511" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="891" y1="685" x2="932" y2="646" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1053" y1="313" x2="1082" y2="265" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="254" y1="310" x2="302" y2="344" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="563" y1="335" x2="619" y2="316" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="619" y1="316" x2="671" y2="289" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="815" y1="592" x2="849" y2="545" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="961" y1="269" x2="965" y2="211" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1161" y1="272" x2="1197" y2="227" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="606" y1="185" x2="635" y2="239" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="630" y1="674" x2="642" y2="734" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="867" y1="457" x2="894" y2="511" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1082" y1="265" x2="1118" y2="313" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="635" y1="239" x2="671" y2="289" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="651" y1="386" x2="667" y2="445" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="671" y1="289" x2="684" y2="349" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="554" y1="685" x2="556" y2="622" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="612" y1="475" x2="667" y2="445" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="635" y1="239" x2="691" y2="208" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="822" y1="298" x2="867" y2="253" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="515" y1="490" x2="565" y2="532" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="556" y1="622" x2="619" y2="638" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="354" y1="133" x2="402" y2="179" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="395" y1="445" x2="459" y2="431" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="402" y1="179" x2="467" y2="173" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="659" y1="526" x2="718" y2="556" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="734" y1="430" x2="777" y2="479" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="999" y1="398" x2="1038" y2="347" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="867" y1="253" x2="893" y2="193" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1014" y1="533" x2="1047" y2="590" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="630" y1="674" x2="692" y2="646" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="692" y1="646" x2="711" y2="710" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="714" y1="7" x2="754" y2="61" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="734" y1="430" x2="799" y2="409" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="612" y1="475" x2="659" y2="526" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="667" y1="445" x2="734" y2="430" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="711" y1="710" x2="761" y2="757" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="131" y1="280" x2="198" y2="302" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="518" y1="280" x2="563" y2="335" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="538" y1="598" x2="565" y2="532" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="952" y1="340" x2="961" y2="269" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="459" y1="431" x2="529" y2="407" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="893" y1="193" x2="965" y2="211" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="914" y1="574" x2="932" y2="646" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="952" y1="340" x2="999" y2="398" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="252" y1="233" x2="254" y2="310" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="350" y1="271" x2="357" y2="349" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="932" y1="646" x2="983" y2="703" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="941" y1="556" x2="1014" y2="533" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="862" y1="167" x2="925" y2="121" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="452" y1="326" x2="518" y2="280" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="467" y1="173" x2="507" y2="242" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="529" y1="407" x2="563" y2="335" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="783" y1="370" x2="822" y2="298" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="449" y1="565" x2="455" y2="649" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1060" y1="632" x2="1130" y2="680" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="368" y1="685" x2="455" y2="649" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1284" y1="827" x2="1348" y2="758" style="stroke:rgb(200,200,200);stroke-width:4" />
+<line x1="1154" y1="667" x2="1284" y2="827" style="stroke:rgb(200,200,200);stroke-width:4" />
+</svg>
