@@ -204,6 +204,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
         "images": [
+          "images/L3/3_compilation/a_presentation.png",
           "images/L3/3_compilation/b_fact.png"
         ],
         "url": "https://william-maillard.github.io/cpyrr/",

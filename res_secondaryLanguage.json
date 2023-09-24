@@ -203,6 +203,7 @@
         "startDate": "L3 informatique, S1",
         "description": "Créer un compilateur pour transcrire un programme (dont la syntaxe est choisie arbitrairement) en un arbre qui sera ensuite exécuté par une machine virtuelle.",
         "images": [
+          "images/L3/3_compilation/a_presentation.png",
           "images/L3/3_compilation/b_fact.png"
         ],
         "url": "https://william-maillard.github.io/cpyrr/",
