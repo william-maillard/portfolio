@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi 👋",
-      "description": "🔎 Looking for an end-of-master's internship (M2) from February 2024 to July 2024 (6 months).",
+      "description": "🔎 Looking for an end-of-master's internship (M2) from February 2024 to July 2024 (6 months). Below you can find all my academic projects with demo in the browser (for 11 of them). If you're only interesting by demos please refer to my github-profile page (link above, in the left corner) to get a list of them and their urls. Otherwise, enjoy illustrations and a short description with used CS skills for each project by clicking on their tile.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -166,7 +166,9 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
-          "images/L3/1_drawing_app/drawing_app.png"
+          "images/L3/1_drawing_app/a_drawing_app.png",
+          "images/L3/1_drawing_app/b_sauvegarde.png",
+          "images/L3/1_drawing_app/c_chargement.png"
         ],
         "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
@@ -185,7 +187,14 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
-          "images/L3/2_wargame/b_home.png"
+          "images/L3/2_wargame/b_home.png",
+          "images/L3/2_wargame/c_map_editor_1.png",
+          "images/L3/2_wargame/d_map_editor_2.png",
+          "images/L3/2_wargame/e_map_editor_save_1.png",
+          "images/L3/2_wargame/f_map_editor_save_2.png",
+          "images/L3/2_wargame/g_game_start.png",
+          "images/L3/2_wargame/h_game_tour_1.png",
+          "images/L3/2_wargame/i_game_attack.png"
         ],
         "url": "https://william-maillard.github.io/wargame/",
         "technologies": [
@@ -204,9 +213,10 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
         "images": [
+          "images/L3/3_compilation/a_presentation.png",
           "images/L3/3_compilation/b_fact.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+        "url": "https://william-maillard.github.io/cpyrr/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -223,8 +233,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description":  "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",
         "images": [
-          "images/L3/garage.png",
-          ""
+          "images/L3/4_prog_sys/bash_terminal.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
         "technologies": [
@@ -243,9 +252,8 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
         "images": [
-          "images/L3/free-steal.gif",
-          "images/L3/key.png",
-          "images/L3/free-steal.mp4"
+          "images/L3/5_free-steal/a_presentation.gif",
+          "images/L3/5_free-steal/free-steal.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
         "technologies": [
@@ -276,8 +284,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description":  "Management of a large number of elements (variable) in a 3D environment using an octree.",
         "images": [
-          "./",
-          ""
+          "images/L3/6_sai/illustration_tmp.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
         "technologies": [
@@ -296,8 +303,7 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Creation of a shared java document with 1 server ,1 heavy client (swing) and 1 light client (java-script).",
         "images": [
-          "./",
-          ""
+          "images/L3/7_dw2/illustration_tmp.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/projetdw2",
         "technologies": [
@@ -505,9 +511,11 @@
         ],
         "technologies": [
           "Computer science applied to industry",
-          "containerisation technologie such as docker and kubernetes",
+          "containerisation technologie",
+          "docker and kubernetes",
           "software benchmarking",
-          "implement an innovative architecture \nfrom an R&D industrial project"
+          "implement an innovative architecture",
+          "from an R&D industrial project"
         ]
       },
       {

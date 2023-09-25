@@ -1,7 +1,7 @@
 {
     "basic_info": {
     "description_header": "Salut 👋",
-    "description": "🔎 À la recherche d'un stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois).",
+    "description": "🔎 À la recherche d'un stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois). Ci-dessous vous trouverez tous mes projets universitaire avec des démos (pour 11 d'entre eux), si vous n'êtes intéressé que par ces démos, veuillez vous référer à ma page github-profile (lien ci-dessus, dans le coin gauche) pour une liste de ces démos et leurs urls. Sinon, profitez des illustrations et d'une courte description avec les compétences IT utilisées pour chaque projet en cliquant sur leur tuile.",
     "section_name": {
     "about": "À propos de moi",
     "projects": "Projets",
@@ -166,7 +166,9 @@
         "startDate": "L3 informatique, S1",
         "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO. Démonstration en direct sur : https://william-maillard.github.io/drawing_app/. Code source à : https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
-          "images/L3/1_drawing_app/drawing_app.png"
+          "images/L3/1_drawing_app/a_drawing_app.png",
+          "images/L3/1_drawing_app/b_sauvegarde.png",
+          "images/L3/1_drawing_app/c_chargement.png"
         ],
         "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
@@ -184,7 +186,14 @@
         "title": "Wargame",
         "startDate": "L3 informatique, S1",
         "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets. Démo dans le navigateur sur https://william-maillard.github.io/wargame/. Code source à: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",        "images": [
-          "images/L3/2_wargame/b_home.png"
+          "images/L3/2_wargame/b_home.png",
+          "images/L3/2_wargame/c_map_editor_1.png",
+          "images/L3/2_wargame/d_map_editor_2.png",
+          "images/L3/2_wargame/e_map_editor_save_1.png",
+          "images/L3/2_wargame/f_map_editor_save_2.png",
+          "images/L3/2_wargame/g_game_start.png",
+          "images/L3/2_wargame/h_game_tour_1.png",
+          "images/L3/2_wargame/i_game_attack.png"
         ],
         "url": "https://william-maillard.github.io/wargame/",
         "technologies": [
@@ -203,9 +212,10 @@
         "startDate": "L3 informatique, S1",
         "description": "Créer un compilateur pour transcrire un programme (dont la syntaxe est choisie arbitrairement) en un arbre qui sera ensuite exécuté par une machine virtuelle.",
         "images": [
+          "images/L3/3_compilation/a_presentation.png",
           "images/L3/3_compilation/b_fact.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+        "url": "https://william-maillard.github.io/cpyrr/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -222,8 +232,7 @@
         "startDate": "L3 informatique, S1",
         "description": "Projet réalisé en 24 heures pour simuler la gestion d'un garage en utilisant les outils vus dans cette UE tels que : communication inter-processus avec des signaux, files de messages, sémaphores, segments de mémoire partagée",
         "images": [
-          "images/L3/garage.png",
-          ""
+          "images/L3/4_prog_sys/bash_terminal.png"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
         "technologies": [
@@ -242,9 +251,8 @@
         "startDate": "L3 informatique, S2",
         "description": "Sujet : Créer un jeu multijoueur à jouer dans un cinéma avant la projection d'un film (environ une centaine de personnes). Réalisé : Jeu multijoueur où vous déplacez un personnage avec votre téléphone (manette sur un site web), vous devez collecter autant de clés que possible dans le temps imparti pour gagner. Méfiez-vous des ennemis et des autres joueurs qui peuvent tirer des missiles. Déploiement : Projection en mai 2022 au cinéma Méliez à Saint-Étienne.",
         "images": [
-          "images/L3/free-steal.gif",
-          "images/L3/key.png",
-          "images/L3/free-steal.mp4"
+          "images/L3/5_free-steal/a_presentation.gif",
+          "images/L3/5_free-steal/free-steal.mp4"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
         "technologies": [
@@ -275,8 +283,7 @@
         "startDate": "L3 informatique, S2",
         "description":  "Gestion d'un grand nombre d'éléments (variables) dans un environnement 3D à l'aide d'un octree.",
         "images": [
-          "./",
-          ""
+          "images/L3/6_sai/illustration_tmp.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
         "technologies": [
@@ -295,8 +302,7 @@
         "startDate": "L3 informatique, S2",
         "description": "Création d'un document java partagé avec 1 serveur, 1 client lourd (swing) et 1 client léger (java-script).",
         "images": [
-          "./",
-          ""
+          "images/L3/7_dw2/illustration_tmp.jpg"
         ],
         "url": "https://gitlab.com/William-maillard/projetdw2",
         "technologies": [
@@ -504,9 +510,11 @@
         ],
         "technologies": [
           "Informatique industrielle",
-          "Technologies de conteneurisation telles que docker et kubernetes",
+          "Technologies de conteneurisation",
+          "docker et kubernetes",
           "Benchmarking logiciels",
-          "Mise en place d'une architecture innovante à partir d'un projet industriel de R&D"
+          "Mise en place d'une architecture innovante",
+          "à partir d'un projet industriel de R&D"
         ]
       },
       {
