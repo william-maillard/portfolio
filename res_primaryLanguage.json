@@ -185,7 +185,14 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
-          "images/L3/2_wargame/b_home.png"
+          "images/L3/2_wargame/b_home.png",
+          "images/L3/2_wargame/c_map_editor_1.png",
+          "images/L3/2_wargame/d_map_editor_2.png",
+          "images/L3/2_wargame/e_map_editor_save_1.png",
+          "images/L3/2_wargame/f_map_editor_save_2.png",
+          "images/L3/2_wargame/g_game_start.png",
+          "images/L3/2_wargame/h_game_tour_1.png",
+          "images/L3/2_wargame/i_game_attack.png"
         ],
         "url": "https://william-maillard.github.io/wargame/",
         "technologies": [

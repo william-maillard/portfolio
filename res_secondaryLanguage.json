@@ -184,7 +184,14 @@
         "title": "Wargame",
         "startDate": "L3 informatique, S1",
         "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets. Démo dans le navigateur sur https://william-maillard.github.io/wargame/. Code source à: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",        "images": [
-          "images/L3/2_wargame/b_home.png"
+          "images/L3/2_wargame/b_home.png",
+          "images/L3/2_wargame/c_map_editor_1.png",
+          "images/L3/2_wargame/d_map_editor_2.png",
+          "images/L3/2_wargame/e_map_editor_save_1.png",
+          "images/L3/2_wargame/f_map_editor_save_2.png",
+          "images/L3/2_wargame/g_game_start.png",
+          "images/L3/2_wargame/h_game_tour_1.png",
+          "images/L3/2_wargame/i_game_attack.png"
         ],
         "url": "https://william-maillard.github.io/wargame/",
         "technologies": [
