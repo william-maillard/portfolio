@@ -166,7 +166,9 @@
         "startDate": "L3 informatique, S1",
         "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO. Démonstration en direct sur : https://william-maillard.github.io/drawing_app/. Code source à : https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
-          "images/L3/1_drawing_app/drawing_app.png"
+          "images/L3/1_drawing_app/a_drawing_app.png",
+          "images/L3/1_drawing_app/b_sauvegarde.png",
+          "images/L3/1_drawing_app/c_chargement.png"
         ],
         "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [

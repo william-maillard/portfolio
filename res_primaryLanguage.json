@@ -166,7 +166,9 @@
         "startDate": "3rd year of Computer Science Bachelor",
         "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
-          "images/L3/1_drawing_app/drawing_app.png"
+          "images/L3/1_drawing_app/a_drawing_app.png",
+          "images/L3/1_drawing_app/b_sauvegarde.png",
+          "images/L3/1_drawing_app/c_chargement.png"
         ],
         "url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
