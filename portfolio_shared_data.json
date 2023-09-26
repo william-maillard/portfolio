@@ -258,7 +258,7 @@
         },
         {
           "name": "Research methodology",
-          "class": "devicon-unrealengine-original"
+          "class": "devicon-devicon-plain"
         },
         {
           "name": "Unreal Engine 5.1",
@@ -266,11 +266,11 @@
         },
         {
           "name": "Cryptography",
-          "class": "devicon-unrealengine-original"
+          "class": "devicon-devicon-plain"
         },
         {
           "name": "Web semantic",
-          "class": "devicon-unrealengine-original"
+          "class": "devicon-devicon-plain"
         }
       ]
     }
