@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": "Bomberman",
-        "startDate": "2nd year of Computer Science Bachelor",
+        "startDate": "2nd year of CS Bachelor",
         "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV. Live demo at: https://william-maillard.github.io/bomberman/. Source code at: https://gitlab.com/William-maillard/bomberman",
         "images": [
           "images/L2/1_bomberman/a_presentation.gif",
@@ -38,7 +38,7 @@
       },
       {
         "title": "formal languages",
-        "startDate": "2nd year of Computer Science Bachelor",
+        "startDate": "2nd year of CS Bachelor",
         "description": "creation of a deterministic finite automaton.",
         "images": [
           "images/L2/2_automates/automates.png"
@@ -53,7 +53,7 @@
       },
       {
         "title": "Correctly Parenthesised",
-        "startDate": "2nd year of Computer Science Bachelor",
+        "startDate": "2nd year of CS Bachelor",
         "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
         "images": [
           "images/L2/3_assembly/a_presentation.gif",
@@ -74,7 +74,7 @@
       },
       {
         "title": "k nearest neighbours",
-        "startDate": "2nd year of Computer Science Bachelor",
+        "startDate": "2nd year of CS Bachelor",
         "description": "Graphical representation of the k-ppv search using a tree.",
         "images": [
           "images/L2/4_knn/a_presentation.gif",
@@ -104,7 +104,7 @@
       },
       {
         "title": "Des restes Une recette",
-        "startDate": "2nd year of Computer Science Bachelor",
+        "startDate": "2nd year of CS Bachelor",
         "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes. Website availible at https://desrestesunerecette.000webhostapp.com/. Source code : https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
         "images": [
           "images/L2/5_dw1/b_home.png",
@@ -136,7 +136,7 @@
       },
       {
         "title": "Graph theory",
-        "startDate": "2nd year of Computer Science Bachelor",
+        "startDate": "2nd year of CS Bachelor",
         "description": "Implementation of algorithm seen during the course graph theory like : topological sorting, width/depth graph visit, find minimum path length, minimum spanning tree (Prim and Kruskal), minimum weight path (Dijkstra).",
         "images": [
           "images/L2/6_graph/width_graph_visit.gif",
@@ -163,7 +163,7 @@
       },
       {
         "title": "Java Drawing app",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
           "images/L3/1_drawing_app/a_drawing_app.png",
@@ -184,7 +184,7 @@
       },
       {
         "title": "Wargame",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
         "images": [
           "images/L3/2_wargame/b_home.png",
@@ -210,7 +210,7 @@
       },
       {
         "title": "Compilation",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
         "images": [
           "images/L3/3_compilation/a_presentation.png",
@@ -230,7 +230,7 @@
       },
       {
         "title": "System Programming",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description":  "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",
         "images": [
           "images/L3/4_prog_sys/bash_terminal.png"
@@ -249,7 +249,7 @@
       },
       {
         "title": "Free-Steal",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
         "images": [
           "images/L3/5_free-steal/a_presentation.gif",
@@ -281,7 +281,7 @@
       },
       {
         "title": "Graphic Computing",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description":  "Management of a large number of elements (variable) in a 3D environment using an octree.",
         "images": [
           "images/L3/6_sai/illustration_tmp.jpg"
@@ -300,7 +300,7 @@
       },
       {
         "title": "Webapp Text Editor",
-        "startDate": "3rd year of Computer Science Bachelor",
+        "startDate": "3rd year of CS Bachelor",
         "description": "Creation of a shared java document with 1 server ,1 heavy client (swing) and 1 light client (java-script).",
         "images": [
           "images/L3/7_dw2/illustration_tmp.jpg"
@@ -323,7 +323,7 @@
       },
       {
         "title": "OpenAirbnb",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form. Deploy at https://william-openairbnb.onrender.com/ , source code at https://gitlab.com/William-maillard/2022-pwa-d",
         "images": [
           "./images/M1/1_openairbnb/b_home.png",
@@ -357,7 +357,7 @@
       },
       {
         "title": "Study : Knapsack Problem algorithms",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description": "The project aims to program many algorithms to solve the 0/1 knapsack problem and make a study about their running time and the quality of their solution.",
         "images": [
           "images/M1/2_knapsack_pbm/b_results.png"
@@ -376,7 +376,7 @@
       },
       {
         "title": "Documents and structured data",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description": "The aim of the project is to extract data from a company's timesheets. These documents are received by the application in .ods (Open Document Spreadsheet) format. The extracted data will be stored in a database, whose entity-association schema is provided in appendix 1, so that it can be used to respond to queries from a business application. The application will be able to request information about employees and current projects. These requests will be configurable. Each parameter will have a default value, making them all optional.",
         "images": [
           "images/M1/3_dds/b_home.png"
@@ -395,7 +395,7 @@
       },
       {
         "title": "AlpesTransport",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description":  "Wikibase is an open-source platform developed by the Wikimedia Foundation for storing, managing and publishing structured and linked data using Semantic Web technologies such as RDF (Resource Description Framework) and SPARQL (SPARQL Protocol and RDF Query Language).",
         "images": [
           "images/M1/4_alpestransport/a_presentation.gif",
@@ -426,7 +426,7 @@
       },
       {
         "title": "E-commerce revisite",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description":  "creation and saving of 3D shop models loading and visiting a shop with a meta-human creation of a neo4j DB to store products (generated with Java Faker)",
         "images": [
           "images/M1/5_ecr/a_presentation.gif",
@@ -454,7 +454,7 @@
       },
       {
         "title": "Handwritten digit recognition",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description": "The aim of this project was to train and fine-tune a deep learning model to recognise numbers from images of handwritten numbers.Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
         "images": [
           "images/M1/6_dl/b_dataset.png"
@@ -477,7 +477,7 @@
       },
       {
         "title": "HMM sentiment analysis",
-        "startDate": "1st year of Computer Science Master",
+        "startDate": "1st year of CS Master",
         "description": "Practical work on machine learning with sikit-learn based on the practical sessions of the course, followed by a project on sentiment analysis using a hidden Markov model. Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
         "images": [
           "images/M1/7_ml/b.jpg"
@@ -510,7 +510,7 @@
           "IIOT"
         ],
         "technologies": [
-          "Computer science applied to industry",
+          "CS applied to industry",
           "containerisation technologie",
           "docker and kubernetes",
           "software benchmarking",
