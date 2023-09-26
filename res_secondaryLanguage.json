@@ -24,7 +24,8 @@
           "images/L2/1_bomberman/g_end.png",
           "images/L2/1_bomberman/z_video.mp4"
         ],
-        "url": "https://william-maillard.github.io/bomberman/",
+        "code_url" : "https://gitlab.com/William-maillard/bomberman",
+        "demo_url": "https://william-maillard.github.io/bomberman/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -43,7 +44,8 @@
         "images": [
           "images/L2/2_automates/automates.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
+        "code_url" : "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -60,7 +62,8 @@
           "images/L2/3_assembly/b_sujet.png",
           "images/L2/3_assembly/c_algo.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+        "code_url":"https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+        "demo_url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
         "technologies": [
           {
             "class": "devicon-putty-original",
@@ -86,7 +89,8 @@
           "images/L2/4_knn/g_tree_cut_plan.png",
           "images/L2/4_knn/h_tree_cut_plan_decision.png"
         ],
-        "url": "https://gitlab.com/William-maillard/kppv-tree",
+        "code_url" : "https://gitlab.com/William-maillard/kppv-tree",
+        "demo_url": "https://william-maillard.github.io/knn/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -110,7 +114,8 @@
           "images/L2/5_dw1/b_home.png",
           "images/L2/5_dw1/d_result.png"
         ],
-        "url": "https://desrestesunerecette.000webhostapp.com/",
+        "code_url":"https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+        "demo_url": "https://desrestesunerecette.000webhostapp.com/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -145,7 +150,8 @@
           "images/L2/6_graph/graphe_113_villes.svg"
          
         ],
-        "url": "https://gitlab.com/William-maillard/graph-traversal",
+        "code_url":"https://gitlab.com/William-maillard/graph-traversal",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -170,7 +176,8 @@
           "images/L3/1_drawing_app/b_sauvegarde.png",
           "images/L3/1_drawing_app/c_chargement.png"
         ],
-        "url": "https://william-maillard.github.io/drawing_app/",
+        "code_url":"https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/TP?ref_type=heads",
+        "demo_url": "https://william-maillard.github.io/drawing_app/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -195,7 +202,8 @@
           "images/L3/2_wargame/h_game_tour_1.png",
           "images/L3/2_wargame/i_game_attack.png"
         ],
-        "url": "https://william-maillard.github.io/wargame/",
+        "code_url":"https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/Projet?ref_type=heads",
+        "demo_url": "https://william-maillard.github.io/wargame/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -215,7 +223,8 @@
           "images/L3/3_compilation/a_presentation.png",
           "images/L3/3_compilation/b_fact.png"
         ],
-        "url": "https://william-maillard.github.io/cpyrr/",
+        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+        "demo_url": "https://william-maillard.github.io/cpyrr/",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -234,7 +243,8 @@
         "images": [
           "images/L3/4_prog_sys/bash_terminal.png"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
+        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -254,7 +264,8 @@
           "images/L3/5_free-steal/a_presentation.gif",
           "images/L3/5_free-steal/free-steal.mp4"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
+        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -285,7 +296,8 @@
         "images": [
           "images/L3/6_sai/illustration_tmp.jpg"
         ],
-        "url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
+        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-c-plain",
@@ -304,7 +316,8 @@
         "images": [
           "images/L3/7_dw2/illustration_tmp.jpg"
         ],
-        "url": "https://gitlab.com/William-maillard/projetdw2",
+        "code_url":"https://gitlab.com/William-maillard/projetdw2",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -330,7 +343,8 @@
           "./images/M1/1_openairbnb/d_results.png",
           "./images/M1/1_openairbnb/e_login.png"
         ],
-        "url": "https://william-openairbnb.onrender.com/",
+        "code_url": "https://gitlab.com/William-maillard/2022-pwa-d",
+        "demo_url": "https://william-openairbnb.onrender.com/",
         "technologies": [
           {
             "class": "devicon-java-plain",
@@ -361,7 +375,8 @@
         "images": [
           "images/M1/2_knapsack_pbm/b_results.png"
         ],
-        "url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
+        "code_url":"https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -380,7 +395,8 @@
         "images": [
           "images/M1/3_dds/b_home.png"
         ],
-        "url": "https://gitlab.com/William-maillard/DDS",
+        "code_url":"https://gitlab.com/William-maillard/DDS",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
@@ -407,7 +423,8 @@
           "images/M1/4_alpestransport/h.png",
           "images/M1/4_alpestransport/i.png"
         ],
-        "url": "https://gitlab.com/William-maillard/m1_interoperabilite",
+        "code_url":"https://gitlab.com/William-maillard/m1_interoperabilite",
+        "demo_url": "http://william228.pythonanywhere.com/",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -435,7 +452,8 @@
           "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
           "images/M1/5_ecr/3-visite_du_magasin_cree.png"
         ],
-        "url": "https://gitlab.com/William-maillard/e-commerce_revisite",
+        "code_url":"https://gitlab.com/William-maillard/e-commerce_revisite",
+        "demo_url": "",
         "technologies": [
           {
             "class": "devicon-unrealengine-original",
@@ -458,7 +476,8 @@
         "images": [
           "images/M1/6_dl/b_dataset.png"
         ],
-        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
+        "code_url":"https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
+        "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -481,7 +500,8 @@
         "images": [
           "images/M1/7_ml/b.jpg"
         ],
-        "url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
+        "code_url":"https://gitlab.com/William-maillard/m1_ml_hmm",
+        "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
         "technologies": [
           {
             "class": "devicon-python-plain",
