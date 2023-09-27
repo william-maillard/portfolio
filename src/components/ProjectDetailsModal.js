@@ -3,6 +3,10 @@ import { Modal } from "react-bootstrap";
 import AwesomeSlider from "react-awesome-slider";
 import AwesomeSliderStyles from "../scss/light-slider.scss";
 import AwesomeSliderStyles2 from "../scss/dark-slider.scss";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGitlab } from '@fortawesome/free-brands-svg-icons';
+import { faArrowUpRightFromSquare } from '@fortawesome/free-solid-svg-icons';
+
 import "react-awesome-slider/dist/custom-animations/scale-out-animation.css";
 class ProjectDetailsModal extends Component {
   render() {
@@ -11,7 +15,10 @@ class ProjectDetailsModal extends Component {
       const images = this.props.data.images;
       var title = this.props.data.title;
       var description = this.props.data.description;
-      var url = this.props.data.url;
+      var demo_url = this.props.data.demo_url;
+      console.log(demo_url);
+      var code_url = this.props.data.code_url;
+      console.log(code_url);
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -79,17 +86,41 @@ class ProjectDetailsModal extends Component {
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
               {title}
-              {url ? (
+              {code_url ? (
                 <a
-                  href={url}
+                  href={code_url}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="link-href"
+                  title={`See code source on gitlab at ${code_url}`}
+                  style={{"margin-left": "10px"}}
                 >
-                  <i
+                  <FontAwesomeIcon 
+                    icon={faGitlab} 
+                    size="lg" 
+                    style={{color: "#ff8040",}} 
+                  />
+                </a>
+              ) : null}
+              {demo_url ? (
+                <a
+                  href={demo_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                  title={`Go to demo at ${demo_url}`}
+                  style={{"margin-left": "10px"}}
+                >
+                  <FontAwesomeIcon 
+                    icon={faArrowUpRightFromSquare}
+                    size="lg"
+                    fade
+                    style={{color: "#000000",}}
+                  />
+                  {/* <i
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
-                  ></i>
+                  ></i> */}
                 </a>
               ) : null}
             </h3>

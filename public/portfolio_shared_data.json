@@ -29,10 +29,6 @@
           "class": "devicon-python-plain"
         },
         {
-          "name": "pytorh",
-          "class": "devicon-pytorch-original"
-        },
-        {
           "name": "Java",
           "class": "devicon-java-plain"          
         },
@@ -131,6 +127,14 @@
         {
           "name": "Optimization",
           "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Map reduce framework",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-devicon-plain"
         }
       ]
     },
@@ -141,8 +145,20 @@
           "class": "devicon-devicon-plain"
         },
         {
+          "name": "scikit-learn",
+          "class": "devicon-devicon-plain"
+        },
+        {
           "name": "Deep Learning",
           "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "pytorh",
+          "class": "devicon-pytorch-original"
+        },
+        {
+          "name": "tensorflow",
+          "class": "devicon-tensorflow-line"
         },
         {
           "name": "NLP by keyword",
@@ -158,6 +174,14 @@
         },
         {
           "name": "R : data processing",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "text-mining",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "social-mining",
           "class": "devicon-devicon-plain"
         }
       ]
@@ -177,8 +201,20 @@
           "class": "devicon-devicon-plain"
         },
         {
+          "name": "jira",
+          "class": "devicon-jira-plain"
+        },
+        {
           "name": "UML diagrams",
           "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        },
+        {
+          "name": "kubernetes",
+          "class": "devicon-kubernetes-plain"
         }
       ]
     },
@@ -221,8 +257,20 @@
           "class": "devicon-latex-original"
         },
         {
+          "name": "Research methodology",
+          "class": "devicon-devicon-plain"
+        },
+        {
           "name": "Unreal Engine 5.1",
           "class": "devicon-unrealengine-original"
+        },
+        {
+          "name": "Cryptography",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Web semantic",
+          "class": "devicon-devicon-plain"
         }
       ]
     }
