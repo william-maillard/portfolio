@@ -109,7 +109,7 @@
       {
         "title": "Des restes Une recette",
         "startDate": "2nd year of CS Bachelor",
-        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes. Website availible at https://desrestesunerecette.000webhostapp.com/. Source code : https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes.",
         "images": [
           "images/L2/5_dw1/b_home.png",
           "images/L2/5_dw1/d_result.png"
@@ -170,7 +170,7 @@
       {
         "title": "Java Drawing app",
         "startDate": "3rd year of CS Bachelor",
-        "description": "Create a drawing app in java, made during practical session of OOP course.\nLive demo at : https://william-maillard.github.io/drawing_app/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "description": "Create a drawing app in java, made during practical session of OOP course.",
         "images": [
           "images/L3/1_drawing_app/a_drawing_app.png",
           "images/L3/1_drawing_app/b_sauvegarde.png",
@@ -192,7 +192,7 @@
       {
         "title": "Wargame",
         "startDate": "3rd year of CS Bachelor",
-        "description": "Create a wargame in JAVA and Swing. First Object Oriented project. Live demo at https://william-maillard.github.io/wargame/. Source code at: https://gitlab.com/William-maillard/poo_wargame_and_drawing_app",
+        "description": "Create a wargame in JAVA and Swing. First Object Oriented project.",
         "images": [
           "images/L3/2_wargame/b_home.png",
           "images/L3/2_wargame/c_map_editor_1.png",
@@ -337,7 +337,7 @@
       {
         "title": "OpenAirbnb",
         "startDate": "1st year of CS Master",
-        "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), ... And if we have time, we will try to expand search on a map, in addition of the form. Deploy at https://william-openairbnb.onrender.com/ , source code at https://gitlab.com/William-maillard/2022-pwa-d",
+        "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), and expand search on a map, in addition of the form.",
         "images": [
           "./images/M1/1_openairbnb/b_home.png",
           "./images/M1/1_openairbnb/c_results.png",
