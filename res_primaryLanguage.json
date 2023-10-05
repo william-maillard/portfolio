@@ -345,7 +345,7 @@
           "./images/M1/1_openairbnb/e_login.png"
         ],
         "code_url": "https://gitlab.com/William-maillard/2022-pwa-d",
-        "demo_url": "https://william-openairbnb.onrender.com/",
+        "demo_url": "https://dsc1-pwa-d-openairbnb.herokuapp.com/",
         "technologies": [
           {
             "class": "devicon-java-plain",
