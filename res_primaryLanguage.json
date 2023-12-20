@@ -517,6 +517,34 @@
             "name": "jupiter notebook"
           }
         ]
+      },
+      {
+        "title": "Implementation of OTP Algorithm", 
+        "startDate": "2nd year of CS Master",
+        "description": "Practical work conceived for a security course that aims to implement the OTP algorithm in python from 'scratch'. 2 versions of OTP have been made : HOTP and TOTP; and a demo has been deployed to heroku.",
+        "images": [
+          "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
+        ],
+        "code_url" : "https://github.com/william-maillard/otp/",
+        "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "Cryptographic Algorithm"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku deployment"
+          }
+        ]
       }
     ],
     "experience": [

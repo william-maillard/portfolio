@@ -517,6 +517,34 @@
             "name": "jupiter notebook"
           }
         ]
+      },
+      {
+        "title": "Implémentation de l'algorithme OTP", 
+        "startDate": "M2 informatique, S1",
+        "description": "Travail pratique conçu pour un cours de sécurité ayant pour objectif de mettre en œuvre l'algorithme OTP en Python à partir de zéro. Deux versions d'OTP ont été réalisées : HOTP et TOTP ; et une démonstration a été déployée sur Heroku.",
+        "images": [
+          "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
+        ],
+        "code_url" : "https://github.com/william-maillard/otp/",
+        "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "Algorithme cryptographique"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "déploiement heroku"
+          }
+        ]
       }
     ],
     "experience": [
