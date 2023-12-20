@@ -545,6 +545,74 @@
             "name": "déploiement heroku"
           }
         ]
+      },
+      {
+        "title": "Recherche d'information XML", 
+        "startDate": "M2 informatique, S1",
+        "description": "L'objectif de ce projet est de mettre en œuvre un moteur de recherche pour des documents XML appartenant à la collection INEX 2008. Le flux de travail du projet est le suivant : 1. Prétraitement des documents XML 2. Indexation des documents avec une liste de postes 3. Interrogation de l'index avec différentes fonctions de pondération.",
+        "images": [
+          ""
+        ],
+        "code_url" : "https://github.com/william-maillard/",
+        "demo_url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-pytest-plain",
+            "name": "Pytest"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "Implémentation de structure de RI"
+          }
+        ]
+      },
+      {
+        "title": "Sémantique web", 
+        "startDate": "M2 informatique, S1",
+        "description": "L'objectif de ce projet est de parcourir les sites web référencés par celui-ci 'https://coopcycle.org/fr/' afin d'extraire une représentation sémantique telle que vue dans les cours (json-ld). Ensuite, nous créons notre propre ontologie pour stocker ces informations extraites dans une base de données Jena. Enfin, les données structurées sont exposées via un point d'accès SPARQL afin de construire une application de livraison de repas.",
+        "images": [
+          ""
+        ],
+        "code_url" : "https://github.com/william-maillard/",
+        "demo_url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-pytest-plain",
+            "name": "beautiful-soup"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "Jena, RDF DB"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning", 
+        "startDate": "M2 informatique, S1",
+        "description": "Étudier différentes méthodes de prétraitement et architectures afin de réaliser la traduction de texte de [fr] vers [en].",
+        "images": [
+          ""
+        ],
+        "code_url" : "https://github.com/william-maillard/",
+        "demo_url": "",
+        "technologies": [
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "jupyter notebook"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Keras"
+          }
+        ]
       }
     ],
     "experience": [

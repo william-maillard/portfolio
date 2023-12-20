@@ -545,6 +545,74 @@
             "name": "Heroku deployment"
           }
         ]
+      },
+      {
+        "title": "XML Information Retrieval", 
+        "startDate": "2nd year of CS Master",
+        "description": "The aim of this project is to implement a search engine for XML document belonging to the INEX 2008 collection. The workflow of the project is as follows: 1. Preprocessing of the XML documents 2. Indexing of the documents with a posting list 3. Querying the index with different weighting functions.",
+        "images": [
+          ""
+        ],
+        "code_url" : "https://github.com/william-maillard/",
+        "demo_url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-pytest-plain",
+            "name": "Pytest"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "Implementation of IR structures"
+          }
+        ]
+      },
+      {
+        "title": "Web Semantics", 
+        "startDate": "2nd year of CS Master",
+        "description": "The aim of this project is to crawl web sites referencng by this one 'https://coopcycle.org/fr/' in order to extract semantic representation seen in the course lectures (json-ld). ANd then to create our onthologie in order to store thoses extracted information in a Jena database. Finally, the structured data are exposed throught a sparql endpoint in order to build a food delivery app.",
+        "images": [
+          ""
+        ],
+        "code_url" : "https://github.com/william-maillard/",
+        "demo_url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
+            "class": "devicon-pytest-plain",
+            "name": "beautiful-soup"
+          },
+          {
+            "class": "devicon-packer-original",
+            "name": "Jena, RDF DB"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning", 
+        "startDate": "2nd year of CS Master",
+        "description": "Study differents preprocessing methods and architecture in order to do text translation from [fr] to [en].",
+        "images": [
+          ""
+        ],
+        "code_url" : "https://github.com/william-maillard/",
+        "demo_url": "",
+        "technologies": [
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "jupyter notebook"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Keras"
+          }
+        ]
       }
     ],
     "experience": [
