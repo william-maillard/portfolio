@@ -1,651 +1,619 @@
 {
-    "basic_info": {
+  "basic_info": {
     "description_header": "Salut 👋",
-    "description": "🔎 À la recherche d'un stage de fin de master (M2) de février 2024 à juillet 2024 (6 mois). Ci-dessous vous trouverez tous mes projets universitaire avec des démos (pour 11 d'entre eux), si vous n'êtes intéressé que par ces démos, veuillez vous référer à ma page github-profile (lien ci-dessus, dans le coin gauche) pour une liste de ces démos et leurs urls. Sinon, profitez des illustrations et d'une courte description avec les compétences IT utilisées pour chaque projet en cliquant sur leur tuile.",
+    "description": "🔎 Récemment  diplomé, à la reherche d'un CID ingénieur backend | fullstack | DevOps. Ci-dessous vous trouverez tous mes projets universitaire avec des démos (pour 11 d'entre eux), si vous n'êtes intéressé que par ces démos, veuillez vous référer à ma page github-profile (lien ci-dessus, dans le coin gauche) pour une liste de ces démos et leurs urls. Sinon, profitez des illustrations et d'une courte description avec les compétences IT utilisées pour chaque projet en cliquant sur leur tuile.",
     "section_name": {
-    "about": "À propos de moi",
-    "projects": "Projets",
-    "skills": "technologies utilisées ",
-    "experience": "Expérience"
+      "about": "À propos de moi",
+      "projects": "Projets",
+      "skills": "technologies utilisées ",
+      "experience": "Expérience"
     }
+  },
+  "projects": [
+    {
+      "title": "Bomberman",
+      "startDate": "L2 informatique, S1",
+      "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV.",
+      "images": [
+        "images/L2/1_bomberman/a_presentation.gif",
+        "images/L2/1_bomberman/b_home.png",
+        "images/L2/1_bomberman/c_rules.png",
+        "images/L2/1_bomberman/d_start.png",
+        "images/L2/1_bomberman/e_game.png",
+        "images/L2/1_bomberman/f_explosion.png",
+        "images/L2/1_bomberman/g_end.png",
+        "images/L2/1_bomberman/z_video.mp4"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/bomberman",
+      "demo_url": "https://william-maillard.github.io/bomberman/",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-sdl-plain",
+          "name": "bibliothèque graphique MLV"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Bomberman",
-        "startDate": "L2 informatique, S1",
-        "description": "Premier projet de ma licence en informatique, l'objectif était de construire un jeu en utilisant une bibliothèque graphique appelée MLV.",
-        "images": [
-          "images/L2/1_bomberman/a_presentation.gif",
-          "images/L2/1_bomberman/b_home.png",
-          "images/L2/1_bomberman/c_rules.png",
-          "images/L2/1_bomberman/d_start.png",
-          "images/L2/1_bomberman/e_game.png",
-          "images/L2/1_bomberman/f_explosion.png",
-          "images/L2/1_bomberman/g_end.png",
-          "images/L2/1_bomberman/z_video.mp4"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/bomberman",
-        "demo_url": "https://william-maillard.github.io/bomberman/",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-sdl-plain",
-            "name": "bibliothèque graphique MLV"
-          }
-        ]
-      },
-      {
-        "title": "Langages formels",
-        "startDate": "L2 informatique, S1",
-        "description": "Création d'un automate fini déterministe.",
-        "images": [
-          "images/L2/2_automates/automates.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          }
-        ]
-      },
-      {
-        "title": "Parenthésage correct",
-        "startDate": "L2 informatique, S1",
-        "description": "Création d'un programme qui vérifie qu'une chaîne de parenthèses est correctement parenthésée en assembleur x86.\n L'utilisateur peut définir les paires de parenthèses avec n'importe quel caractère au début du programme.",
-        "images": [
-          "images/L2/3_assembly/a_presentation.gif",
-          "images/L2/3_assembly/b_sujet.png",
-          "images/L2/3_assembly/c_algo.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
-        "demo_url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
-        "technologies": [
-          {
-            "class": "devicon-putty-original",
-            "name": "Assembleur x86"
-          },
-          {
-            "class": "devicon-latex-original",
-            "name": "Latex"
-          }
-        ]
-      },
-      {
-        "title": "k plus proches voisins",
-        "startDate": "L2 informatique, S2",
-        "description": "Représentation graphique de la recherche des k-ppv en utilisant un arbre.",
-        "images": [
-          "images/L2/4_knn/a_presentation.gif",
-          "images/L2/4_knn/b_home.png",
-          "images/L2/4_knn/c_click.png",
-          "images/L2/4_knn/d_click_2.png",
-          "images/L2/4_knn/e_load_file.png",
-          "images/L2/4_knn/f_30nn.png",
-          "images/L2/4_knn/g_tree_cut_plan.png",
-          "images/L2/4_knn/h_tree_cut_plan_decision.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/kppv-tree",
-        "demo_url": "https://william-maillard.github.io/knn/",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-sdl-plain",
-            "name": "bibliothèque graphique MLV"
-          },
-          {
-            "class": "devicon-thealgorithms-plain",
-            "name": "algorithme IA"
-          }
-        ]
-      },
-      {
-        "title": "Des restes Une recette",
-        "startDate": "L2 informatique, S2",
-        "description": "'Des restes Une recette' est un site web qui vous permet de rechercher une recette en fonction des restes dans votre réfrigérateur. Les membres connectés peuvent voter pour leurs recettes préférées.",
-        "images": [
-          "images/L2/5_dw1/b_home.png",
-          "images/L2/5_dw1/d_result.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
-        "demo_url": "https://desrestesunerecette.000webhostapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "html5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "css3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "javascript"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "php8"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },
-      {
-        "title": "Théorie des graphes",
-        "startDate": "L2 informatique, S2",
-        "description":  "Implémentation d'algorithmes vus pendant le cours de théorie des graphes comme : tri topologique, visite de graphes largeur/profondeur, recherche de la longueur minimale d'un chemin, arbre minimal (Prim et Kruskal), chemin à poids minimal (Dijkstra).",
-        "images": [
-          "images/L2/6_graph/width_graph_visit.gif",
-          "images/L2/6_graph/depth_graph_visit.gif",
-          "images/L2/6_graph/dijkstra.gif",
-          "images/L2/6_graph/graphe_113_villes.svg"
-         
-        ],
-        "code_url":"https://gitlab.com/William-maillard/graph-traversal",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-bash-plain",
-            "name": "bash"
-          },
-          {
-            "class": "devicon-graphql-plain",
-            "name": "graphes"
-          }
-        ]
-      },
-      {
-        "title": "Java application de dessins",
-        "startDate": "L3 informatique, S1",
-        "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO.",
-        "images": [
-          "images/L3/1_drawing_app/a_drawing_app.png",
-          "images/L3/1_drawing_app/b_sauvegarde.png",
-          "images/L3/1_drawing_app/c_chargement.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/TP?ref_type=heads",
-        "demo_url": "https://william-maillard.github.io/drawing_app/",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "graphic library\nSwing & Awt"
-          }
-        ]
-      },
-      {
-        "title": "Wargame",
-        "startDate": "L3 informatique, S1",
-        "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets.",
-        "images": [
-          "images/L3/2_wargame/b_home.png",
-          "images/L3/2_wargame/c_map_editor_1.png",
-          "images/L3/2_wargame/d_map_editor_2.png",
-          "images/L3/2_wargame/e_map_editor_save_1.png",
-          "images/L3/2_wargame/f_map_editor_save_2.png",
-          "images/L3/2_wargame/g_game_start.png",
-          "images/L3/2_wargame/h_game_tour_1.png",
-          "images/L3/2_wargame/i_game_attack.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/Projet?ref_type=heads",
-        "demo_url": "https://william-maillard.github.io/wargame/",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "bibliothèque graphique\nSwing & Awt"
-          }
-        ]
-      },
-      {
-        "title": "Compilation",
-        "startDate": "L3 informatique, S1",
-        "description": "Créer un compilateur pour transcrire un programme (dont la syntaxe est choisie arbitrairement) en un arbre qui sera ensuite exécuté par une machine virtuelle.",
-        "images": [
-          "images/L3/3_compilation/a_presentation.png",
-          "images/L3/3_compilation/b_fact.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
-        "demo_url": "https://william-maillard.github.io/cpyrr/",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-linux-plain",
-            "name": "Lex & Yacc"
-          }
-        ]
-      },
-      {
-        "title": "Programmation système",
-        "startDate": "L3 informatique, S1",
-        "description": "Projet réalisé en 24 heures pour simuler la gestion d'un garage en utilisant les outils vus dans cette UE tels que : communication inter-processus avec des signaux, files de messages, sémaphores, segments de mémoire partagée",
-        "images": [
-          "images/L3/4_prog_sys/bash_terminal.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-linux-plain",
-            "name": "Linux"
-          }
-        ]
-      },
-      {
-        "title": "Free-Steal",
-        "startDate": "L3 informatique, S2",
-        "description": "Sujet : Créer un jeu multijoueur à jouer dans un cinéma avant la projection d'un film (environ une centaine de personnes). Réalisé : Jeu multijoueur où vous déplacez un personnage avec votre téléphone (manette sur un site web), vous devez collecter autant de clés que possible dans le temps imparti pour gagner. Méfiez-vous des ennemis et des autres joueurs qui peuvent tirer des missiles. Déploiement : Projection en mai 2022 au cinéma Méliez à Saint-Étienne.",
-        "images": [
-          "images/L3/5_free-steal/a_presentation.gif",
-          "images/L3/5_free-steal/free-steal.mp4"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "bibliothèque graphique \nSwing & Awt"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "html5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "css3"
-          },
-          {
-            "class": "devicon-networkx-original",
-            "name": "multi-joueurs massifs"
-          }
-        ]
-      },
-      {
-        "title": "Informatique graphique",
-        "startDate": "L3 informatique, S2",
-        "description":  "Gestion d'un grand nombre d'éléments (variables) dans un environnement 3D à l'aide d'un octree.",
-        "images": [
-          "images/L3/6_sai/illustration_tmp.jpg"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-opengl-plain",
-            "name": "opengl"
-          }
-        ]
-      },
-      {
-        "title": "Éditeur de texte Web",
-        "startDate": "L3 informatique, S2",
-        "description": "Création d'un document java partagé avec 1 serveur, 1 client lourd (swing) et 1 client léger (java-script).",
-        "images": [
-          "images/L3/7_dw2/illustration_tmp.jpg"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/projetdw2",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "JAVA"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "JPA"
-          },
-          {
-            "class": "devicon-tomcat-line",
-            "name": "tomcat server"
-          }
-        ]
-      },
-      {
-        "title": "OpenAirbnb",
-        "startDate": "M1 informatique, S1",
-        "description": "Le projet vise à fournir une application Web open source pour louer (du côté du propriétaire et du locataire) le logement d'un particulier. L'application permettra la recherche de locations par emplacement et de nombreux autres filtres tels que les expériences (cabane dans les arbres, ferme, ...), les fonctionnalités (fourniture de draps, machine à laver, acceptation des animaux de compagnie, ...), et la recherche sur une carte en plus du formulaire.",
-        "images": [
-          "./images/M1/1_openairbnb/b_home.png",
-          "./images/M1/1_openairbnb/c_results.png",
-          "./images/M1/1_openairbnb/d_results.png",
-          "./images/M1/1_openairbnb/e_login.png"
-        ],
-        "code_url": "https://gitlab.com/William-maillard/2022-pwa-d",
-        "demo_url": "https://openairbnb-e513fbe79514.herokuapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "JAVA"
-          },
-          {
-            "class": "devicon-spring-plain",
-            "name": "Spring framework"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Thymleaf"
-          },
-          {
-            "class": "devicon-vuejs-plain",
-            "name": "vueJS"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "bootstrap"
-          }
-        ]
-      },
-      {
-        "title": "Study : Knapsack Problem algorithms",
-        "startDate": "M1 informatique, S1",
-         "description": "Le projet vise à programmer plusieurs algorithmes pour résoudre le Problème du Sac à Dos 0/1 et à réaliser une étude sur leur temps d'exécution et la qualité de leur solution.",
-        "images": [
-          "images/M1/2_knapsack_pbm/b_results.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-bash-plain",
-            "name": "bash"
-          }
-        ]
-      },
-      {
-        "title": "Documents et données structurées",
-        "startDate": "M1 informatique, S1",
-        "description": "L'objectif du projet est d'extraire des données des feuilles de temps d'une entreprise. Ces documents sont reçus par l'application au format .ods (tableur Open Document). Les données extraites seront stockées dans une base de données, dont le schéma entité-association est fourni en annexe 1, afin qu'elles puissent être utilisées pour répondre aux requêtes d'une application métier. L'application pourra demander des informations sur les employés et les projets en cours. Ces requêtes seront configurables. Chaque paramètre aura une valeur par défaut, les rendant tous optionnels.",
-        "images": [
-          "images/M1/3_dds/b_home.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/DDS",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "nodejs"
-          },
-          {
-            "class": "devicon-appwrite-plain",
-            "name": "xml"
-          }
-        ]
-      },
-      {
-        "title": "AlpesTransport",
-        "startDate": "M1 informatique, S2",
-        "description":  "Wikibase est une plateforme open source développée par la Wikimedia Foundation pour stocker, gérer et publier des données structurées et liées en utilisant les technologies du Web sémantique telles que RDF (Resource Description Framework) et SPARQL (SPARQL Protocol and RDF Query Language).",
-        "images": [
-          "images/M1/4_alpestransport/a_presentation.gif",
-          "images/M1/4_alpestransport/b_result.gif",
-          "images/M1/4_alpestransport/c_error.gif",
-          "images/M1/4_alpestransport/d.png",
-          "images/M1/4_alpestransport/e.png",
-          "images/M1/4_alpestransport/f.png",
-          "images/M1/4_alpestransport/g.png",
-          "images/M1/4_alpestransport/h.png",
-          "images/M1/4_alpestransport/i.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/m1_interoperabilite",
-        "demo_url": "https://alpestransport-ce5c8fdbf287.herokuapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-flask-original",
-            "name": "bibliothèque Flask"
-          },
-          {
-            "class": "devicon-graphql-plain",
-            "name": "wikibase & données rdf"
-          }
-        ]
-      },
-      {
-        "title": "E-commerce revisite",
-        "startDate": "M1 informatique, S2",
-        "description":  "Création et sauvegarde de modèles de magasins en 3D chargement et visite d'un magasin avec un méta-humain création d'une base de données neo4j pour stocker les produits (générés avec Java Faker)",
-        "images": [
-          "images/M1/5_ecr/a_presentation.gif",
-          "images/M1/5_ecr/1-menu_principal.png",
-          "images/M1/5_ecr/2-0_creation_de_magasin.png",
-          "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
-          "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
-          "images/M1/5_ecr/3-visite_du_magasin_cree.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/e-commerce_revisite",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "Unreal Engine & Blueprint"
-          },
-          {
-            "class": "devicon-cplusplus-plain",
-            "name": "C++"
-          },
-          {
-            "class": "devicon-neo4j-plain",
-            "name": "neo4j"
-          }
-        ]
-      },
-      {
-        "title": "Reconnaissance de chiffres manuscrits",
-        "startDate": "M1 informatique, S2",
-        "description": "L'objectif de ce projet était d'entraîner et d'afiner un modèle d'apprentissage profond pour reconnaitre des chiffres à partir d'images de chiffres écrits à la main. Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
-        "images": [
-          "images/M1/6_dl/b_dataset.png"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
-        "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-pytorch-original",
-            "name": "pytorch"
-          },
-          {
-            "class": "devicon-bash-plain",
-            "name": "bash"
-          }
-        ]
-      },
-      {
-        "title": "HMM sentiment analysis",
-        "startDate": "M1 informatique, S2",
-        "description": "Travaux pratiques sur le machine learning avec sikit-learn à partir des sessions pratiques du cours, puis d'un projet sur l'analyse des sentiments à l'aide d'un Hidden Markov Model(HMM). Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
-        "images": [
-          "images/M1/7_ml/b.jpg"
-        ],
-        "code_url":"https://gitlab.com/William-maillard/m1_ml_hmm",
-        "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "sikit-learn"
-          },
-          {
-            "class": "devicon-jupyter-plain",
-            "name": "jupiter notebook"
-          }
-        ]
-      },
-      {
-        "title": "Implémentation de l'algorithme OTP", 
-        "startDate": "M2 informatique, S1",
-        "description": "Travail pratique conçu pour un cours de sécurité ayant pour objectif de mettre en œuvre l'algorithme OTP en Python à partir de zéro. Deux versions d'OTP ont été réalisées : HOTP et TOTP ; et une démonstration a été déployée sur Heroku.",
-        "images": [
-          "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
-        ],
-        "code_url" : "https://github.com/william-maillard/otp/",
-        "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-flask-original",
-            "name": "Flask"
-          },
-          {
-            "class": "devicon-thealgorithms-plain",
-            "name": "Algorithme cryptographique"
-          },
-          {
-            "class": "devicon-heroku-original",
-            "name": "déploiement heroku"
-          }
-        ]
-      },
-      {
-        "title": "Recherche d'information XML", 
-        "startDate": "M2 informatique, S1",
-        "description": "L'objectif de ce projet est de mettre en œuvre un moteur de recherche pour des documents XML appartenant à la collection INEX 2008. Le flux de travail du projet est le suivant : 1. Prétraitement des documents XML 2. Indexation des documents avec une liste de postes 3. Interrogation de l'index avec différentes fonctions de pondération.",
-        "images": [
-          ""
-        ],
-        "code_url" : "https://github.com/william-maillard/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-pytest-plain",
-            "name": "Pytest"
-          },
-          {
-            "class": "devicon-thealgorithms-plain",
-            "name": "Implémentation de structure de RI"
-          }
-        ]
-      },
-      {
-        "title": "Sémantique web", 
-        "startDate": "M2 informatique, S1",
-        "description": "L'objectif de ce projet est de parcourir les sites web référencés par celui-ci 'https://coopcycle.org/fr/' afin d'extraire une représentation sémantique telle que vue dans les cours (json-ld). Ensuite, nous créons notre propre ontologie pour stocker ces informations extraites dans une base de données Jena. Enfin, les données structurées sont exposées via un point d'accès SPARQL afin de construire une application de livraison de repas.",
-        "images": [
-          ""
-        ],
-        "code_url" : "https://github.com/william-maillard/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-pytest-plain",
-            "name": "beautiful-soup"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "Jena, RDF DB"
-          }
-        ]
-      },
-      {
-        "title": "Deep Learning", 
-        "startDate": "M2 informatique, S1",
-        "description": "Étudier différentes méthodes de prétraitement et architectures afin de réaliser la traduction de texte de [fr] vers [en].",
-        "images": [
-          ""
-        ],
-        "code_url" : "https://github.com/william-maillard/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-jupyter-plain",
-            "name": "jupyter notebook"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Keras"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Actemium",
-        "title": "Stagiaire IT",
-        "years": "04.2023 - 08.2023",
-        "mainTech": [
-          "Docker",
-          "architecture systèmes et réseaux",
-          "IIOT"
-        ],
-        "technologies": [
-          "Informatique industrielle",
-          "Technologies de conteneurisation",
-          "docker et kubernetes",
-          "Benchmarking logiciels",
-          "Mise en place d'une architecture innovante",
-          "à partir d'un projet industriel de R&D"
-        ]
-      },
-      {
-        "company": "Astrée Software",
-        "title": "Stagiaire",
-        "years": "12.2018 - 12.2018",
-        "mainTech": [
-          "stage d'observation"
-        ],
-        "technologies": [
-          "Travail en équipe",
-          "Méthodologie Agile",
-          "Développement web"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Langages formels",
+      "startDate": "L2 informatique, S1",
+      "description": "Création d'un automate fini déterministe.",
+      "images": ["images/L2/2_automates/automates.png"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        }
+      ]
+    },
+    {
+      "title": "Parenthésage correct",
+      "startDate": "L2 informatique, S1",
+      "description": "Création d'un programme qui vérifie qu'une chaîne de parenthèses est correctement parenthésée en assembleur x86.\n L'utilisateur peut définir les paires de parenthèses avec n'importe quel caractère au début du programme.",
+      "images": [
+        "images/L2/3_assembly/a_presentation.gif",
+        "images/L2/3_assembly/b_sujet.png",
+        "images/L2/3_assembly/c_algo.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+      "demo_url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+      "technologies": [
+        {
+          "class": "devicon-putty-original",
+          "name": "Assembleur x86"
+        },
+        {
+          "class": "devicon-latex-original",
+          "name": "Latex"
+        }
+      ]
+    },
+    {
+      "title": "k plus proches voisins",
+      "startDate": "L2 informatique, S2",
+      "description": "Représentation graphique de la recherche des k-ppv en utilisant un arbre.",
+      "images": [
+        "images/L2/4_knn/a_presentation.gif",
+        "images/L2/4_knn/b_home.png",
+        "images/L2/4_knn/c_click.png",
+        "images/L2/4_knn/d_click_2.png",
+        "images/L2/4_knn/e_load_file.png",
+        "images/L2/4_knn/f_30nn.png",
+        "images/L2/4_knn/g_tree_cut_plan.png",
+        "images/L2/4_knn/h_tree_cut_plan_decision.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/kppv-tree",
+      "demo_url": "https://william-maillard.github.io/knn/",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sdl-plain",
+          "name": "bibliothèque graphique MLV"
+        },
+        {
+          "class": "devicon-thealgorithms-plain",
+          "name": "algorithme IA"
+        }
+      ]
+    },
+    {
+      "title": "Des restes Une recette",
+      "startDate": "L2 informatique, S2",
+      "description": "'Des restes Une recette' est un site web qui vous permet de rechercher une recette en fonction des restes dans votre réfrigérateur. Les membres connectés peuvent voter pour leurs recettes préférées.",
+      "images": ["images/L2/5_dw1/b_home.png", "images/L2/5_dw1/d_result.png"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+      "demo_url": "https://desrestesunerecette.000webhostapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javascript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "php8"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "Théorie des graphes",
+      "startDate": "L2 informatique, S2",
+      "description": "Implémentation d'algorithmes vus pendant le cours de théorie des graphes comme : tri topologique, visite de graphes largeur/profondeur, recherche de la longueur minimale d'un chemin, arbre minimal (Prim et Kruskal), chemin à poids minimal (Dijkstra).",
+      "images": [
+        "images/L2/6_graph/width_graph_visit.gif",
+        "images/L2/6_graph/depth_graph_visit.gif",
+        "images/L2/6_graph/dijkstra.gif",
+        "images/L2/6_graph/graphe_113_villes.svg"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/graph-traversal",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "bash"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "graphes"
+        }
+      ]
+    },
+    {
+      "title": "Java application de dessins",
+      "startDate": "L3 informatique, S1",
+      "description": "Créer une application de dessin en Java, réalisée pendant les TPs du cours POO.",
+      "images": [
+        "images/L3/1_drawing_app/a_drawing_app.png",
+        "images/L3/1_drawing_app/b_sauvegarde.png",
+        "images/L3/1_drawing_app/c_chargement.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/TP?ref_type=heads",
+      "demo_url": "https://william-maillard.github.io/drawing_app/",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "graphic library\nSwing & Awt"
+        }
+      ]
+    },
+    {
+      "title": "Wargame",
+      "startDate": "L3 informatique, S1",
+      "description": "Créer un wargame en JAVA et Swing. Premier projet de programmation orientée objets.",
+      "images": [
+        "images/L3/2_wargame/b_home.png",
+        "images/L3/2_wargame/c_map_editor_1.png",
+        "images/L3/2_wargame/d_map_editor_2.png",
+        "images/L3/2_wargame/e_map_editor_save_1.png",
+        "images/L3/2_wargame/f_map_editor_save_2.png",
+        "images/L3/2_wargame/g_game_start.png",
+        "images/L3/2_wargame/h_game_tour_1.png",
+        "images/L3/2_wargame/i_game_attack.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/Projet?ref_type=heads",
+      "demo_url": "https://william-maillard.github.io/wargame/",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "bibliothèque graphique\nSwing & Awt"
+        }
+      ]
+    },
+    {
+      "title": "Compilation",
+      "startDate": "L3 informatique, S1",
+      "description": "Créer un compilateur pour transcrire un programme (dont la syntaxe est choisie arbitrairement) en un arbre qui sera ensuite exécuté par une machine virtuelle.",
+      "images": [
+        "images/L3/3_compilation/a_presentation.png",
+        "images/L3/3_compilation/b_fact.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+      "demo_url": "https://william-maillard.github.io/cpyrr/",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-linux-plain",
+          "name": "Lex & Yacc"
+        }
+      ]
+    },
+    {
+      "title": "Programmation système",
+      "startDate": "L3 informatique, S1",
+      "description": "Projet réalisé en 24 heures pour simuler la gestion d'un garage en utilisant les outils vus dans cette UE tels que : communication inter-processus avec des signaux, files de messages, sémaphores, segments de mémoire partagée",
+      "images": ["images/L3/4_prog_sys/bash_terminal.png"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-linux-plain",
+          "name": "Linux"
+        }
+      ]
+    },
+    {
+      "title": "Free-Steal",
+      "startDate": "L3 informatique, S2",
+      "description": "Sujet : Créer un jeu multijoueur à jouer dans un cinéma avant la projection d'un film (environ une centaine de personnes). Réalisé : Jeu multijoueur où vous déplacez un personnage avec votre téléphone (manette sur un site web), vous devez collecter autant de clés que possible dans le temps imparti pour gagner. Méfiez-vous des ennemis et des autres joueurs qui peuvent tirer des missiles. Déploiement : Projection en mai 2022 au cinéma Méliez à Saint-Étienne.",
+      "images": [
+        "images/L3/5_free-steal/a_presentation.gif",
+        "images/L3/5_free-steal/free-steal.mp4"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "bibliothèque graphique \nSwing & Awt"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css3"
+        },
+        {
+          "class": "devicon-networkx-original",
+          "name": "multi-joueurs massifs"
+        }
+      ]
+    },
+    {
+      "title": "Informatique graphique",
+      "startDate": "L3 informatique, S2",
+      "description": "Gestion d'un grand nombre d'éléments (variables) dans un environnement 3D à l'aide d'un octree.",
+      "images": ["images/L3/6_sai/illustration_tmp.jpg"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-opengl-plain",
+          "name": "opengl"
+        }
+      ]
+    },
+    {
+      "title": "Éditeur de texte Web",
+      "startDate": "L3 informatique, S2",
+      "description": "Création d'un document java partagé avec 1 serveur, 1 client lourd (swing) et 1 client léger (java-script).",
+      "images": ["images/L3/7_dw2/illustration_tmp.jpg"],
+      "code_url": "https://gitlab.com/William-maillard/projetdw2",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "JAVA"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "JPA"
+        },
+        {
+          "class": "devicon-tomcat-line",
+          "name": "tomcat server"
+        }
+      ]
+    },
+    {
+      "title": "OpenAirbnb",
+      "startDate": "M1 informatique, S1",
+      "description": "Le projet vise à fournir une application Web open source pour louer (du côté du propriétaire et du locataire) le logement d'un particulier. L'application permettra la recherche de locations par emplacement et de nombreux autres filtres tels que les expériences (cabane dans les arbres, ferme, ...), les fonctionnalités (fourniture de draps, machine à laver, acceptation des animaux de compagnie, ...), et la recherche sur une carte en plus du formulaire.",
+      "images": [
+        "./images/M1/1_openairbnb/b_home.png",
+        "./images/M1/1_openairbnb/c_results.png",
+        "./images/M1/1_openairbnb/d_results.png",
+        "./images/M1/1_openairbnb/e_login.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/2022-pwa-d",
+      "demo_url": "https://openairbnb-e513fbe79514.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "JAVA"
+        },
+        {
+          "class": "devicon-spring-plain",
+          "name": "Spring framework"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Thymleaf"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "vueJS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Study : Knapsack Problem algorithms",
+      "startDate": "M1 informatique, S1",
+      "description": "Le projet vise à programmer plusieurs algorithmes pour résoudre le Problème du Sac à Dos 0/1 et à réaliser une étude sur leur temps d'exécution et la qualité de leur solution.",
+      "images": ["images/M1/2_knapsack_pbm/b_results.png"],
+      "code_url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "bash"
+        }
+      ]
+    },
+    {
+      "title": "Documents et données structurées",
+      "startDate": "M1 informatique, S1",
+      "description": "L'objectif du projet est d'extraire des données des feuilles de temps d'une entreprise. Ces documents sont reçus par l'application au format .ods (tableur Open Document). Les données extraites seront stockées dans une base de données, dont le schéma entité-association est fourni en annexe 1, afin qu'elles puissent être utilisées pour répondre aux requêtes d'une application métier. L'application pourra demander des informations sur les employés et les projets en cours. Ces requêtes seront configurables. Chaque paramètre aura une valeur par défaut, les rendant tous optionnels.",
+      "images": ["images/M1/3_dds/b_home.png"],
+      "code_url": "https://gitlab.com/William-maillard/DDS",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "nodejs"
+        },
+        {
+          "class": "devicon-appwrite-plain",
+          "name": "xml"
+        }
+      ]
+    },
+    {
+      "title": "AlpesTransport",
+      "startDate": "M1 informatique, S2",
+      "description": "Wikibase est une plateforme open source développée par la Wikimedia Foundation pour stocker, gérer et publier des données structurées et liées en utilisant les technologies du Web sémantique telles que RDF (Resource Description Framework) et SPARQL (SPARQL Protocol and RDF Query Language).",
+      "images": [
+        "images/M1/4_alpestransport/a_presentation.gif",
+        "images/M1/4_alpestransport/b_result.gif",
+        "images/M1/4_alpestransport/c_error.gif",
+        "images/M1/4_alpestransport/d.png",
+        "images/M1/4_alpestransport/e.png",
+        "images/M1/4_alpestransport/f.png",
+        "images/M1/4_alpestransport/g.png",
+        "images/M1/4_alpestransport/h.png",
+        "images/M1/4_alpestransport/i.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/m1_interoperabilite",
+      "demo_url": "https://alpestransport-ce5c8fdbf287.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "bibliothèque Flask"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "wikibase & données rdf"
+        }
+      ]
+    },
+    {
+      "title": "E-commerce revisite",
+      "startDate": "M1 informatique, S2",
+      "description": "Création et sauvegarde de modèles de magasins en 3D chargement et visite d'un magasin avec un méta-humain création d'une base de données neo4j pour stocker les produits (générés avec Java Faker)",
+      "images": [
+        "images/M1/5_ecr/a_presentation.gif",
+        "images/M1/5_ecr/1-menu_principal.png",
+        "images/M1/5_ecr/2-0_creation_de_magasin.png",
+        "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
+        "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
+        "images/M1/5_ecr/3-visite_du_magasin_cree.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/e-commerce_revisite",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "Unreal Engine & Blueprint"
+        },
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        },
+        {
+          "class": "devicon-neo4j-plain",
+          "name": "neo4j"
+        }
+      ]
+    },
+    {
+      "title": "Reconnaissance de chiffres manuscrits",
+      "startDate": "M1 informatique, S2",
+      "description": "L'objectif de ce projet était d'entraîner et d'afiner un modèle d'apprentissage profond pour reconnaitre des chiffres à partir d'images de chiffres écrits à la main. Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
+      "images": ["images/M1/6_dl/b_dataset.png"],
+      "code_url": "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
+      "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-pytorch-original",
+          "name": "pytorch"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "bash"
+        }
+      ]
+    },
+    {
+      "title": "HMM sentiment analysis",
+      "startDate": "M1 informatique, S2",
+      "description": "Travaux pratiques sur le machine learning avec sikit-learn à partir des sessions pratiques du cours, puis d'un projet sur l'analyse des sentiments à l'aide d'un Hidden Markov Model(HMM). Vous trouverez ci-joint un lien vers un environnement d'exécution pour jupyter-notebook (binder) lié au dépôt gitlab.",
+      "images": ["images/M1/7_ml/b.jpg"],
+      "code_url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+      "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "sikit-learn"
+        },
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "jupiter notebook"
+        }
+      ]
+    },
+    {
+      "title": "Implémentation de l'algorithme OTP",
+      "startDate": "M2 informatique, S1",
+      "description": "Travail pratique conçu pour un cours de sécurité ayant pour objectif de mettre en œuvre l'algorithme OTP en Python à partir de zéro. Deux versions d'OTP ont été réalisées : HOTP et TOTP ; et une démonstration a été déployée sur Heroku.",
+      "images": [
+        "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
+      ],
+      "code_url": "https://github.com/william-maillard/otp/",
+      "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask"
+        },
+        {
+          "class": "devicon-thealgorithms-plain",
+          "name": "Algorithme cryptographique"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "déploiement heroku"
+        }
+      ]
+    },
+    {
+      "title": "Recherche d'information XML",
+      "startDate": "M2 informatique, S1",
+      "description": "L'objectif de ce projet est de mettre en œuvre un moteur de recherche pour des documents XML appartenant à la collection INEX 2008. Le flux de travail du projet est le suivant : 1. Prétraitement des documents XML 2. Indexation des documents avec une liste de postes 3. Interrogation de l'index avec différentes fonctions de pondération.",
+      "images": [""],
+      "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-pytest-plain",
+          "name": "Pytest"
+        },
+        {
+          "class": "devicon-thealgorithms-plain",
+          "name": "Implémentation de structure de RI"
+        }
+      ]
+    },
+    {
+      "title": "Sémantique web",
+      "startDate": "M2 informatique, S1",
+      "description": "L'objectif de ce projet est de parcourir les sites web référencés par celui-ci 'https://coopcycle.org/fr/' afin d'extraire une représentation sémantique telle que vue dans les cours (json-ld). Ensuite, nous créons notre propre ontologie pour stocker ces informations extraites dans une base de données Jena. Enfin, les données structurées sont exposées via un point d'accès SPARQL afin de construire une application de livraison de repas.",
+      "images": [""],
+      "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-pytest-plain",
+          "name": "beautiful-soup"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "Jena, RDF DB"
+        }
+      ]
+    },
+    {
+      "title": "Deep Learning",
+      "startDate": "M2 informatique, S1",
+      "description": "Étudier différentes méthodes de prétraitement et architectures afin de réaliser la traduction de texte de [fr] vers [en].",
+      "images": [""],
+      "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "jupyter notebook"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Keras"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Actemium",
+      "title": "Stagiaire IT",
+      "years": "04.2023 - 08.2023",
+      "mainTech": ["Docker", "architecture systèmes et réseaux", "IIOT"],
+      "technologies": [
+        "Informatique industrielle",
+        "Technologies de conteneurisation",
+        "docker et kubernetes",
+        "Benchmarking logiciels",
+        "Mise en place d'une architecture innovante",
+        "à partir d'un projet industriel de R&D"
+      ]
+    },
+    {
+      "company": "Astrée Software",
+      "title": "Stagiaire",
+      "years": "12.2018 - 12.2018",
+      "mainTech": ["stage d'observation"],
+      "technologies": [
+        "Travail en équipe",
+        "Méthodologie Agile",
+        "Développement web"
+      ]
+    }
+  ]
+}

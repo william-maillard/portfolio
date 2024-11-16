@@ -1,651 +1,615 @@
 {
-    "basic_info": {
-      "description_header": "Hi 👋",
-      "description": "🔎 Looking for an end-of-master's internship (M2) from February 2024 to July 2024 (6 months). Below you can find all my academic projects with demo in the browser (for 11 of them). If you're only interesting by demos please refer to my github-profile page (link above, in the left corner) to get a list of them and their urls. Otherwise, enjoy illustrations and a short description with used CS skills for each project by clicking on their tile.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "technologies used ",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi 👋",
+    "description": "🔎 Recent graduate, seeking a permanent position as a backend engineer | fullstack developer | DevOps. Below you can find all my academic projects with demo in the browser (for 11 of them). If you're only interesting by demos please refer to my github-profile page (link above, in the left corner) to get a list of them and their urls. Otherwise, enjoy illustrations and a short description with used CS skills for each project by clicking on their tile.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "technologies used ",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Bomberman",
+      "startDate": "2nd year of CS Bachelor",
+      "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV.",
+      "images": [
+        "images/L2/1_bomberman/a_presentation.gif",
+        "images/L2/1_bomberman/b_home.png",
+        "images/L2/1_bomberman/c_rules.png",
+        "images/L2/1_bomberman/d_start.png",
+        "images/L2/1_bomberman/e_game.png",
+        "images/L2/1_bomberman/f_explosion.png",
+        "images/L2/1_bomberman/g_end.png",
+        "images/L2/1_bomberman/z_video.mp4"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/bomberman",
+      "demo_url": "https://william-maillard.github.io/bomberman/",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-sdl-plain",
+          "name": "library MLV"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Bomberman",
-        "startDate": "2nd year of CS Bachelor",
-        "description": "First project of my bachelor program, the goal was to build a game using a graphic library called MLV.",
-        "images": [
-          "images/L2/1_bomberman/a_presentation.gif",
-          "images/L2/1_bomberman/b_home.png",
-          "images/L2/1_bomberman/c_rules.png",
-          "images/L2/1_bomberman/d_start.png",
-          "images/L2/1_bomberman/e_game.png",
-          "images/L2/1_bomberman/f_explosion.png",
-          "images/L2/1_bomberman/g_end.png",
-          "images/L2/1_bomberman/z_video.mp4"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/bomberman",
-        "demo_url": "https://william-maillard.github.io/bomberman/",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-sdl-plain",
-            "name": "library MLV"
-          }
-        ]
-      },
-      {
-        "title": "formal languages",
-        "startDate": "2nd year of CS Bachelor",
-        "description": "creation of a deterministic finite automaton.",
-        "images": [
-          "images/L2/2_automates/automates.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          }
-        ]
-      },
-      {
-        "title": "Correctly Parenthesised",
-        "startDate": "2nd year of CS Bachelor",
-        "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
-        "images": [
-          "images/L2/3_assembly/a_presentation.gif",
-          "images/L2/3_assembly/b_sujet.png",
-          "images/L2/3_assembly/c_algo.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-putty-original",
-            "name": "Assembly x86"
-          },
-          {
-            "class": "devicon-latex-original",
-            "name": "Latex"
-          }
-        ]
-      },
-      {
-        "title": "k nearest neighbours",
-        "startDate": "2nd year of CS Bachelor",
-        "description": "Graphical representation of the k-ppv search using a tree.",
-        "images": [
-          "images/L2/4_knn/a_presentation.gif",
-          "images/L2/4_knn/b_home.png",
-          "images/L2/4_knn/c_click.png",
-          "images/L2/4_knn/d_click_2.png",
-          "images/L2/4_knn/e_load_file.png",
-          "images/L2/4_knn/f_30nn.png",
-          "images/L2/4_knn/g_tree_cut_plan.png",
-          "images/L2/4_knn/h_tree_cut_plan_decision.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/kppv-tree",
-        "demo_url": "https://william-maillard.github.io/knn/",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-sdl-plain",
-            "name": "graphic library\nMLV"
-          },
-          {
-            "class": "devicon-thealgorithms-plain",
-            "name": "AI algorithm"
-          }
-        ]
-      },
-      {
-        "title": "Des restes Une recette",
-        "startDate": "2nd year of CS Bachelor",
-        "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes.",
-        "images": [
-          "images/L2/5_dw1/b_home.png",
-          "images/L2/5_dw1/d_result.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
-        "demo_url": "https://desrestesunerecette.000webhostapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "html5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "css3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "javascript"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "php8"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },
-      {
-        "title": "Graph theory",
-        "startDate": "2nd year of CS Bachelor",
-        "description": "Implementation of algorithm seen during the course graph theory like : topological sorting, width/depth graph visit, find minimum path length, minimum spanning tree (Prim and Kruskal), minimum weight path (Dijkstra).",
-        "images": [
-          "images/L2/6_graph/width_graph_visit.gif",
-          "images/L2/6_graph/depth_graph_visit.gif",
-          "images/L2/6_graph/dijkstra.gif",
-          "images/L2/6_graph/graphe_113_villes.svg"
-         
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/graph-traversal",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-bash-plain",
-            "name": "bash"
-          },
-          {
-            "class": "devicon-graphql-plain",
-            "name": "graph theory"
-          }
-        ]
-      },
-      {
-        "title": "Java Drawing app",
-        "startDate": "3rd year of CS Bachelor",
-        "description": "Create a drawing app in java, made during practical session of OOP course.",
-        "images": [
-          "images/L3/1_drawing_app/a_drawing_app.png",
-          "images/L3/1_drawing_app/b_sauvegarde.png",
-          "images/L3/1_drawing_app/c_chargement.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/TP?ref_type=heads",
-        "demo_url": "https://william-maillard.github.io/drawing_app/",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "graphic library\nSwing & Awt"
-          }
-        ]
-      },
-      {
-        "title": "Wargame",
-        "startDate": "3rd year of CS Bachelor",
-        "description": "Create a wargame in JAVA and Swing. First Object Oriented project.",
-        "images": [
-          "images/L3/2_wargame/b_home.png",
-          "images/L3/2_wargame/c_map_editor_1.png",
-          "images/L3/2_wargame/d_map_editor_2.png",
-          "images/L3/2_wargame/e_map_editor_save_1.png",
-          "images/L3/2_wargame/f_map_editor_save_2.png",
-          "images/L3/2_wargame/g_game_start.png",
-          "images/L3/2_wargame/h_game_tour_1.png",
-          "images/L3/2_wargame/i_game_attack.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/Projet?ref_type=heads",
-        "demo_url": "https://william-maillard.github.io/wargame/",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "graphic library\nSwing & Awt"
-          }
-        ]
-      },
-      {
-        "title": "Compilation",
-        "startDate": "3rd year of CS Bachelor",
-        "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
-        "images": [
-          "images/L3/3_compilation/a_presentation.png",
-          "images/L3/3_compilation/b_fact.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
-        "demo_url": "https://william-maillard.github.io/cpyrr/",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-linux-plain",
-            "name": "Lex & Yacc"
-          }
-        ]
-      },
-      {
-        "title": "System Programming",
-        "startDate": "3rd year of CS Bachelor",
-        "description":  "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",
-        "images": [
-          "images/L3/4_prog_sys/bash_terminal.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-linux-plain",
-            "name": "Linux"
-          }
-        ]
-      },
-      {
-        "title": "Free-Steal",
-        "startDate": "3rd year of CS Bachelor",
-        "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
-        "images": [
-          "images/L3/5_free-steal/a_presentation.gif",
-          "images/L3/5_free-steal/free-steal.mp4"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "graphic library\nSwing & Awt"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "html5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "css3"
-          },
-          {
-            "class": "devicon-networkx-original",
-            "name": "massive multiplayers"
-          }
-        ]
-      },
-      {
-        "title": "Graphic Computing",
-        "startDate": "3rd year of CS Bachelor",
-        "description":  "Management of a large number of elements (variable) in a 3D environment using an octree.",
-        "images": [
-          "images/L3/6_sai/illustration_tmp.jpg"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-c-plain",
-            "name": "C"
-          },
-          {
-            "class": "devicon-opengl-plain",
-            "name": "opengl"
-          }
-        ]
-      },
-      {
-        "title": "Webapp Text Editor",
-        "startDate": "3rd year of CS Bachelor",
-        "description": "Creation of a shared java document with 1 server ,1 heavy client (swing) and 1 light client (java-script).",
-        "images": [
-          "images/L3/7_dw2/illustration_tmp.jpg"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/projetdw2",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "JAVA"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "JPA"
-          },
-          {
-            "class": "devicon-tomcat-line",
-            "name": "tomcat server"
-          }
-        ]
-      },
-      {
-        "title": "OpenAirbnb",
-        "startDate": "1st year of CS Master",
-        "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), and expand search on a map, in addition of the form.",
-        "images": [
-          "./images/M1/1_openairbnb/b_home.png",
-          "./images/M1/1_openairbnb/c_results.png",
-          "./images/M1/1_openairbnb/d_results.png",
-          "./images/M1/1_openairbnb/e_login.png"
-        ],
-        "code_url": "https://gitlab.com/William-maillard/2022-pwa-d",
-        "demo_url": "https://openairbnb-e513fbe79514.herokuapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "JAVA"
-          },
-          {
-            "class": "devicon-spring-plain",
-            "name": "Spring framework"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Thymleaf"
-          },
-          {
-            "class": "devicon-vuejs-plain",
-            "name": "vueJS"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "bootstrap"
-          }
-        ]
-      },
-      {
-        "title": "Study : Knapsack Problem algorithms",
-        "startDate": "1st year of CS Master",
-        "description": "The project aims to program many algorithms to solve the 0/1 knapsack problem and make a study about their running time and the quality of their solution.",
-        "images": [
-          "images/M1/2_knapsack_pbm/b_results.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-bash-plain",
-            "name": "bash"
-          }
-        ]
-      },
-      {
-        "title": "Documents and structured data",
-        "startDate": "1st year of CS Master",
-        "description": "The aim of the project is to extract data from a company's timesheets. These documents are received by the application in .ods (Open Document Spreadsheet) format. The extracted data will be stored in a database, whose entity-association schema is provided in appendix 1, so that it can be used to respond to queries from a business application. The application will be able to request information about employees and current projects. These requests will be configurable. Each parameter will have a default value, making them all optional.",
-        "images": [
-          "images/M1/3_dds/b_home.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/DDS",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "nodejs"
-          },
-          {
-            "class": "devicon-appwrite-plain",
-            "name": "xml"
-          }
-        ]
-      },
-      {
-        "title": "AlpesTransport",
-        "startDate": "1st year of CS Master",
-        "description":  "Wikibase is an open-source platform developed by the Wikimedia Foundation for storing, managing and publishing structured and linked data using Semantic Web technologies such as RDF (Resource Description Framework) and SPARQL (SPARQL Protocol and RDF Query Language).",
-        "images": [
-          "images/M1/4_alpestransport/a_presentation.gif",
-          "images/M1/4_alpestransport/b_result.gif",
-          "images/M1/4_alpestransport/c_error.gif",
-          "images/M1/4_alpestransport/d.png",
-          "images/M1/4_alpestransport/e.png",
-          "images/M1/4_alpestransport/f.png",
-          "images/M1/4_alpestransport/g.png",
-          "images/M1/4_alpestransport/h.png",
-          "images/M1/4_alpestransport/i.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/m1_interoperabilite",
-        "demo_url": "https://alpestransport-ce5c8fdbf287.herokuapp.com/",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-flask-original",
-            "name": "Flask library"
-          },
-          {
-            "class": "devicon-graphql-plain",
-            "name": "wikibase & rdf data"
-          }
-        ]
-      },
-      {
-        "title": "E-commerce revisite",
-        "startDate": "1st year of CS Master",
-        "description":  "creation and saving of 3D shop models loading and visiting a shop with a meta-human creation of a neo4j DB to store products (generated with Java Faker)",
-        "images": [
-          "images/M1/5_ecr/a_presentation.gif",
-          "images/M1/5_ecr/1-menu_principal.png",
-          "images/M1/5_ecr/2-0_creation_de_magasin.png",
-          "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
-          "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
-          "images/M1/5_ecr/3-visite_du_magasin_cree.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/e-commerce_revisite",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "Unreal Engine & Blueprint"
-          },
-          {
-            "class": "devicon-cplusplus-plain",
-            "name": "C++"
-          },
-          {
-            "class": "devicon-neo4j-plain",
-            "name": "neo4j"
-          }
-        ]
-      },
-      {
-        "title": "Handwritten digit recognition",
-        "startDate": "1st year of CS Master",
-        "description": "The aim of this project was to train and fine-tune a deep learning model to recognise numbers from images of handwritten numbers.Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
-        "images": [
-          "images/M1/6_dl/b_dataset.png"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
-        "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-pytorch-original",
-            "name": "pytorch"
-          },
-          {
-            "class": "devicon-bash-plain",
-            "name": "bash"
-          }
-        ]
-      },
-      {
-        "title": "HMM sentiment analysis",
-        "startDate": "1st year of CS Master",
-        "description": "Practical work on machine learning with sikit-learn based on the practical sessions of the course, followed by a project on sentiment analysis using a hidden Markov model. Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
-        "images": [
-          "images/M1/7_ml/b.jpg"
-        ],
-        "code_url" : "https://gitlab.com/William-maillard/m1_ml_hmm",
-        "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "sikit-learn"
-          },
-          {
-            "class": "devicon-jupyter-plain",
-            "name": "jupiter notebook"
-          }
-        ]
-      },
-      {
-        "title": "Implementation of OTP Algorithm", 
-        "startDate": "2nd year of CS Master",
-        "description": "Practical work conceived for a security course that aims to implement the OTP algorithm in python from 'scratch'. 2 versions of OTP have been made : HOTP and TOTP; and a demo has been deployed to heroku.",
-        "images": [
-          "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
-        ],
-        "code_url" : "https://github.com/william-maillard/otp/",
-        "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-flask-original",
-            "name": "Flask"
-          },
-          {
-            "class": "devicon-thealgorithms-plain",
-            "name": "Cryptographic Algorithm"
-          },
-          {
-            "class": "devicon-heroku-original",
-            "name": "Heroku deployment"
-          }
-        ]
-      },
-      {
-        "title": "XML Information Retrieval", 
-        "startDate": "2nd year of CS Master",
-        "description": "The aim of this project is to implement a search engine for XML document belonging to the INEX 2008 collection. The workflow of the project is as follows: 1. Preprocessing of the XML documents 2. Indexing of the documents with a posting list 3. Querying the index with different weighting functions.",
-        "images": [
-          ""
-        ],
-        "code_url" : "https://github.com/william-maillard/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-pytest-plain",
-            "name": "Pytest"
-          },
-          {
-            "class": "devicon-thealgorithms-plain",
-            "name": "Implementation of IR structures"
-          }
-        ]
-      },
-      {
-        "title": "Web Semantics", 
-        "startDate": "2nd year of CS Master",
-        "description": "The aim of this project is to crawl web sites referencng by this one 'https://coopcycle.org/fr/' in order to extract semantic representation seen in the course lectures (json-ld). ANd then to create our onthologie in order to store thoses extracted information in a Jena database. Finally, the structured data are exposed throught a sparql endpoint in order to build a food delivery app.",
-        "images": [
-          ""
-        ],
-        "code_url" : "https://github.com/william-maillard/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "python"
-          },
-          {
-            "class": "devicon-pytest-plain",
-            "name": "beautiful-soup"
-          },
-          {
-            "class": "devicon-packer-original",
-            "name": "Jena, RDF DB"
-          }
-        ]
-      },
-      {
-        "title": "Deep Learning", 
-        "startDate": "2nd year of CS Master",
-        "description": "Study differents preprocessing methods and architecture in order to do text translation from [fr] to [en].",
-        "images": [
-          ""
-        ],
-        "code_url" : "https://github.com/william-maillard/",
-        "demo_url": "",
-        "technologies": [
-          {
-            "class": "devicon-jupyter-plain",
-            "name": "jupyter notebook"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Keras"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Actemium",
-        "title": "Intern IT",
-        "years": "04.2023 - 08.2023",
-        "mainTech": [
-          "Docker",
-          "System & network architecture",
-          "IIOT"
-        ],
-        "technologies": [
-          "CS applied to industry",
-          "containerisation technologie",
-          "docker and kubernetes",
-          "software benchmarking",
-          "implement an innovative architecture",
-          "from an R&D industrial project"
-        ]
-      },
-      {
-        "company": "Astrée Software",
-        "title": "Intern",
-        "years": "12.2018 - 12.2018",
-        "mainTech": [
-          "Observation Internship"
-        ],
-        "technologies": [
-          "team work",
-          "Agile methodology",
-          "web development"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "formal languages",
+      "startDate": "2nd year of CS Bachelor",
+      "description": "creation of a deterministic finite automaton.",
+      "images": ["images/L2/2_automates/automates.png"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        }
+      ]
+    },
+    {
+      "title": "Correctly Parenthesised",
+      "startDate": "2nd year of CS Bachelor",
+      "description": "Creation of a program that checks that a string of parentheses is correctly parenthesised in x86 assembler.\n The user can define the parenthesis pairs with any character at the start of the program.",
+      "images": [
+        "images/L2/3_assembly/a_presentation.gif",
+        "images/L2/3_assembly/b_sujet.png",
+        "images/L2/3_assembly/c_algo.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-putty-original",
+          "name": "Assembly x86"
+        },
+        {
+          "class": "devicon-latex-original",
+          "name": "Latex"
+        }
+      ]
+    },
+    {
+      "title": "k nearest neighbours",
+      "startDate": "2nd year of CS Bachelor",
+      "description": "Graphical representation of the k-ppv search using a tree.",
+      "images": [
+        "images/L2/4_knn/a_presentation.gif",
+        "images/L2/4_knn/b_home.png",
+        "images/L2/4_knn/c_click.png",
+        "images/L2/4_knn/d_click_2.png",
+        "images/L2/4_knn/e_load_file.png",
+        "images/L2/4_knn/f_30nn.png",
+        "images/L2/4_knn/g_tree_cut_plan.png",
+        "images/L2/4_knn/h_tree_cut_plan_decision.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/kppv-tree",
+      "demo_url": "https://william-maillard.github.io/knn/",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sdl-plain",
+          "name": "graphic library\nMLV"
+        },
+        {
+          "class": "devicon-thealgorithms-plain",
+          "name": "AI algorithm"
+        }
+      ]
+    },
+    {
+      "title": "Des restes Une recette",
+      "startDate": "2nd year of CS Bachelor",
+      "description": "'Des restes Une recette' means 'Leftovers a recipe' and it's a Website that lets you search for a recipe based on the leftovers in your fridge. Logged-in members can vote for their favourite recipes.",
+      "images": ["images/L2/5_dw1/b_home.png", "images/L2/5_dw1/d_result.png"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l2_s4_dw1",
+      "demo_url": "https://desrestesunerecette.000webhostapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javascript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "php8"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "Graph theory",
+      "startDate": "2nd year of CS Bachelor",
+      "description": "Implementation of algorithm seen during the course graph theory like : topological sorting, width/depth graph visit, find minimum path length, minimum spanning tree (Prim and Kruskal), minimum weight path (Dijkstra).",
+      "images": [
+        "images/L2/6_graph/width_graph_visit.gif",
+        "images/L2/6_graph/depth_graph_visit.gif",
+        "images/L2/6_graph/dijkstra.gif",
+        "images/L2/6_graph/graphe_113_villes.svg"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/graph-traversal",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "bash"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "graph theory"
+        }
+      ]
+    },
+    {
+      "title": "Java Drawing app",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Create a drawing app in java, made during practical session of OOP course.",
+      "images": [
+        "images/L3/1_drawing_app/a_drawing_app.png",
+        "images/L3/1_drawing_app/b_sauvegarde.png",
+        "images/L3/1_drawing_app/c_chargement.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/TP?ref_type=heads",
+      "demo_url": "https://william-maillard.github.io/drawing_app/",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "graphic library\nSwing & Awt"
+        }
+      ]
+    },
+    {
+      "title": "Wargame",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Create a wargame in JAVA and Swing. First Object Oriented project.",
+      "images": [
+        "images/L3/2_wargame/b_home.png",
+        "images/L3/2_wargame/c_map_editor_1.png",
+        "images/L3/2_wargame/d_map_editor_2.png",
+        "images/L3/2_wargame/e_map_editor_save_1.png",
+        "images/L3/2_wargame/f_map_editor_save_2.png",
+        "images/L3/2_wargame/g_game_start.png",
+        "images/L3/2_wargame/h_game_tour_1.png",
+        "images/L3/2_wargame/i_game_attack.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/poo_wargame_and_drawing_app/-/tree/main/Projet?ref_type=heads",
+      "demo_url": "https://william-maillard.github.io/wargame/",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "graphic library\nSwing & Awt"
+        }
+      ]
+    },
+    {
+      "title": "Compilation",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Create a compiler to transcribe a program (whose syntax is chosen arbitrarily) into a tree that will then be executed by a virtual machine.",
+      "images": [
+        "images/L3/3_compilation/a_presentation.png",
+        "images/L3/3_compilation/b_fact.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_compilation",
+      "demo_url": "https://william-maillard.github.io/cpyrr/",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-linux-plain",
+          "name": "Lex & Yacc"
+        }
+      ]
+    },
+    {
+      "title": "System Programming",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Project carried out in 24 hours to simulate the management of a garage using the tools seen in this UE such as: inter-process communication with signals message queues semaphores shared memory segments",
+      "images": ["images/L3/4_prog_sys/bash_terminal.png"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s5_ue_programmation-systeme_coding-party",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-linux-plain",
+          "name": "Linux"
+        }
+      ]
+    },
+    {
+      "title": "Free-Steal",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Subject: Create a multiplayer game to be played in a cinema before a film is shown (~a hundred people) Achieved: Multiplayer game where you move a character with your phone (controller on a website), you have to collect as many keys as possible in the time allowed to win. Watch out for enemies and other players who may fire missiles. Deployment: May 2022 screening at the Méliez cinema in Saint-Etienne.",
+      "images": [
+        "images/L3/5_free-steal/a_presentation.gif",
+        "images/L3/5_free-steal/free-steal.mp4"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "graphic library\nSwing & Awt"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "html5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css3"
+        },
+        {
+          "class": "devicon-networkx-original",
+          "name": "massive multiplayers"
+        }
+      ]
+    },
+    {
+      "title": "Graphic Computing",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Management of a large number of elements (variable) in a 3D environment using an octree.",
+      "images": ["images/L3/6_sai/illustration_tmp.jpg"],
+      "code_url": "https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-opengl-plain",
+          "name": "opengl"
+        }
+      ]
+    },
+    {
+      "title": "Webapp Text Editor",
+      "startDate": "3rd year of CS Bachelor",
+      "description": "Creation of a shared java document with 1 server ,1 heavy client (swing) and 1 light client (java-script).",
+      "images": ["images/L3/7_dw2/illustration_tmp.jpg"],
+      "code_url": "https://gitlab.com/William-maillard/projetdw2",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "JAVA"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "JPA"
+        },
+        {
+          "class": "devicon-tomcat-line",
+          "name": "tomcat server"
+        }
+      ]
+    },
+    {
+      "title": "OpenAirbnb",
+      "startDate": "1st year of CS Master",
+      "description": "The project aims to provide an open source webapp to rent (from both side, owner and tenant) an individual's home.The application will allow the search of rant by location and many other filter like experiences (tree house, farm, ...), functionnalities (bed sheets provide, washing machine, allowing pet, ...), and expand search on a map, in addition of the form.",
+      "images": [
+        "./images/M1/1_openairbnb/b_home.png",
+        "./images/M1/1_openairbnb/c_results.png",
+        "./images/M1/1_openairbnb/d_results.png",
+        "./images/M1/1_openairbnb/e_login.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/2022-pwa-d",
+      "demo_url": "https://openairbnb-e513fbe79514.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "JAVA"
+        },
+        {
+          "class": "devicon-spring-plain",
+          "name": "Spring framework"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Thymleaf"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "vueJS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Study : Knapsack Problem algorithms",
+      "startDate": "1st year of CS Master",
+      "description": "The project aims to program many algorithms to solve the 0/1 knapsack problem and make a study about their running time and the quality of their solution.",
+      "images": ["images/M1/2_knapsack_pbm/b_results.png"],
+      "code_url": "https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "bash"
+        }
+      ]
+    },
+    {
+      "title": "Documents and structured data",
+      "startDate": "1st year of CS Master",
+      "description": "The aim of the project is to extract data from a company's timesheets. These documents are received by the application in .ods (Open Document Spreadsheet) format. The extracted data will be stored in a database, whose entity-association schema is provided in appendix 1, so that it can be used to respond to queries from a business application. The application will be able to request information about employees and current projects. These requests will be configurable. Each parameter will have a default value, making them all optional.",
+      "images": ["images/M1/3_dds/b_home.png"],
+      "code_url": "https://gitlab.com/William-maillard/DDS",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "nodejs"
+        },
+        {
+          "class": "devicon-appwrite-plain",
+          "name": "xml"
+        }
+      ]
+    },
+    {
+      "title": "AlpesTransport",
+      "startDate": "1st year of CS Master",
+      "description": "Wikibase is an open-source platform developed by the Wikimedia Foundation for storing, managing and publishing structured and linked data using Semantic Web technologies such as RDF (Resource Description Framework) and SPARQL (SPARQL Protocol and RDF Query Language).",
+      "images": [
+        "images/M1/4_alpestransport/a_presentation.gif",
+        "images/M1/4_alpestransport/b_result.gif",
+        "images/M1/4_alpestransport/c_error.gif",
+        "images/M1/4_alpestransport/d.png",
+        "images/M1/4_alpestransport/e.png",
+        "images/M1/4_alpestransport/f.png",
+        "images/M1/4_alpestransport/g.png",
+        "images/M1/4_alpestransport/h.png",
+        "images/M1/4_alpestransport/i.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/m1_interoperabilite",
+      "demo_url": "https://alpestransport-ce5c8fdbf287.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask library"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "wikibase & rdf data"
+        }
+      ]
+    },
+    {
+      "title": "E-commerce revisite",
+      "startDate": "1st year of CS Master",
+      "description": "creation and saving of 3D shop models loading and visiting a shop with a meta-human creation of a neo4j DB to store products (generated with Java Faker)",
+      "images": [
+        "images/M1/5_ecr/a_presentation.gif",
+        "images/M1/5_ecr/1-menu_principal.png",
+        "images/M1/5_ecr/2-0_creation_de_magasin.png",
+        "images/M1/5_ecr/2-1_creation_de_magasin-pose_etageres.png",
+        "images/M1/5_ecr/2-2_creation_de_magasin-pose_sol.png",
+        "images/M1/5_ecr/3-visite_du_magasin_cree.png"
+      ],
+      "code_url": "https://gitlab.com/William-maillard/e-commerce_revisite",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "Unreal Engine & Blueprint"
+        },
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        },
+        {
+          "class": "devicon-neo4j-plain",
+          "name": "neo4j"
+        }
+      ]
+    },
+    {
+      "title": "Handwritten digit recognition",
+      "startDate": "1st year of CS Master",
+      "description": "The aim of this project was to train and fine-tune a deep learning model to recognise numbers from images of handwritten numbers.Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
+      "images": ["images/M1/6_dl/b_dataset.png"],
+      "code_url": "https://gitlab.com/William-maillard/m1_dl_handwritten_digit_recognition",
+      "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_dl_handwritten_digit_recognition/main?labpath=README.md",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-pytorch-original",
+          "name": "pytorch"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "bash"
+        }
+      ]
+    },
+    {
+      "title": "HMM sentiment analysis",
+      "startDate": "1st year of CS Master",
+      "description": "Practical work on machine learning with sikit-learn based on the practical sessions of the course, followed by a project on sentiment analysis using a hidden Markov model. Attached is a link to a runtime environment for jupyter-notebook (binder) linked to the gitlab repository.",
+      "images": ["images/M1/7_ml/b.jpg"],
+      "code_url": "https://gitlab.com/William-maillard/m1_ml_hmm",
+      "demo_url": "https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "sikit-learn"
+        },
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "jupiter notebook"
+        }
+      ]
+    },
+    {
+      "title": "Implementation of OTP Algorithm",
+      "startDate": "2nd year of CS Master",
+      "description": "Practical work conceived for a security course that aims to implement the OTP algorithm in python from 'scratch'. 2 versions of OTP have been made : HOTP and TOTP; and a demo has been deployed to heroku.",
+      "images": [
+        "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
+      ],
+      "code_url": "https://github.com/william-maillard/otp/",
+      "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask"
+        },
+        {
+          "class": "devicon-thealgorithms-plain",
+          "name": "Cryptographic Algorithm"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku deployment"
+        }
+      ]
+    },
+    {
+      "title": "XML Information Retrieval",
+      "startDate": "2nd year of CS Master",
+      "description": "The aim of this project is to implement a search engine for XML document belonging to the INEX 2008 collection. The workflow of the project is as follows: 1. Preprocessing of the XML documents 2. Indexing of the documents with a posting list 3. Querying the index with different weighting functions.",
+      "images": [""],
+      "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-pytest-plain",
+          "name": "Pytest"
+        },
+        {
+          "class": "devicon-thealgorithms-plain",
+          "name": "Implementation of IR structures"
+        }
+      ]
+    },
+    {
+      "title": "Web Semantics",
+      "startDate": "2nd year of CS Master",
+      "description": "The aim of this project is to crawl web sites referencng by this one 'https://coopcycle.org/fr/' in order to extract semantic representation seen in the course lectures (json-ld). ANd then to create our onthologie in order to store thoses extracted information in a Jena database. Finally, the structured data are exposed throught a sparql endpoint in order to build a food delivery app.",
+      "images": [""],
+      "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "python"
+        },
+        {
+          "class": "devicon-pytest-plain",
+          "name": "beautiful-soup"
+        },
+        {
+          "class": "devicon-packer-original",
+          "name": "Jena, RDF DB"
+        }
+      ]
+    },
+    {
+      "title": "Deep Learning",
+      "startDate": "2nd year of CS Master",
+      "description": "Study differents preprocessing methods and architecture in order to do text translation from [fr] to [en].",
+      "images": [""],
+      "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "jupyter notebook"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Keras"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Actemium",
+      "title": "Intern IT",
+      "years": "04.2023 - 08.2023",
+      "mainTech": ["Docker", "System & network architecture", "IIOT"],
+      "technologies": [
+        "CS applied to industry",
+        "containerisation technologie",
+        "docker and kubernetes",
+        "software benchmarking",
+        "implement an innovative architecture",
+        "from an R&D industrial project"
+      ]
+    },
+    {
+      "company": "Astrée Software",
+      "title": "Intern",
+      "years": "12.2018 - 12.2018",
+      "mainTech": ["Observation Internship"],
+      "technologies": ["team work", "Agile methodology", "web development"]
+    }
+  ]
+}
