@@ -503,7 +503,11 @@
       "startDate": "2nd year of CS Master",
       "description": "Practical work conceived for a security course that aims to implement the OTP algorithm in python from 'scratch'. 2 versions of OTP have been made : HOTP and TOTP; and a demo has been deployed to heroku.",
       "images": [
-        "https://github.com/william-maillard/otp/blob/main/doc/img/C_proto/home.png"
+        "images/M2/1_securite_otp/a_home.png",
+        "images/M2/1_securite_otp/b_client.png",
+        "images/M2/1_securite_otp/c_otp_result.png",
+        "images/M2/1_securite_otp/d_popup_otp.png",
+        "images/M2/1_securite_otp/e_server.png"
       ],
       "code_url": "https://github.com/william-maillard/otp/",
       "demo_url": "https://dsc-securite-otp-c9eac3f8716a.herokuapp.com/login",
