@@ -1,7 +1,14 @@
 {
   "basic_info": {
     "name": "MAILLARD William",
-    "titles": [ "Master 2 Informatique", "Données et Systèmes connectés", "AI and big data", "cybersecurity", "web and software development" ],
+    "titles": [
+      "🔎 backend | fullstack | DevOps",
+      "Master Informatique",
+      "Données et Systèmes connectés",
+      "AI and big data",
+      "cybersecurity",
+      "web and software development"
+    ],
     "social": [
       {
         "name": "github",
@@ -21,7 +28,7 @@
     ],
     "image": "myProfile.jpg"
   },
-  "skills" : {
+  "skills": {
     "programming": {
       "icons": [
         {
@@ -30,15 +37,15 @@
         },
         {
           "name": "Java",
-          "class": "devicon-java-plain"          
+          "class": "devicon-java-plain"
         },
         {
           "name": "Spring",
-          "class": "devicon-spring-plain"          
+          "class": "devicon-spring-plain"
         },
         {
           "name": "C",
-          "class": "devicon-c-plain"          
+          "class": "devicon-c-plain"
         },
         {
           "name": "C++",
@@ -47,7 +54,7 @@
         {
           "name": "C#",
           "class": "devicon-csharp-plain"
-        },                  
+        },
         {
           "name": "Bash",
           "class": "devicon-bash-plain"
@@ -75,15 +82,15 @@
         {
           "name": "React",
           "class": "devicon-react-plain"
-        },        
+        },
         {
           "name": "Web",
           "class": "devicon-devicon-plain"
-        },        
+        },
         {
           "name": "System",
           "class": "devicon-devicon-plain"
-        },        
+        },
         {
           "name": "Rust",
           "class": "devicon-rust-plain"
@@ -244,7 +251,7 @@
     },
     "various": {
       "icons": [
-                {
+        {
           "name": "Anglais C1",
           "class": "devicon-html5-plain"
         },
