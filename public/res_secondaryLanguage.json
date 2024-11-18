@@ -562,7 +562,16 @@
       "title": "Sémantique web",
       "startDate": "M2 informatique, S1",
       "description": "L'objectif de ce projet est de parcourir les sites web référencés par celui-ci 'https://coopcycle.org/fr/' afin d'extraire une représentation sémantique telle que vue dans les cours (json-ld). Ensuite, nous créons notre propre ontologie pour stocker ces informations extraites dans une base de données Jena. Enfin, les données structurées sont exposées via un point d'accès SPARQL afin de construire une application de livraison de repas.",
-      "images": [""],
+      "images": [
+        "images/M2/a_webui_home.png",
+        "images/M2/b_webui_menu_description.png",
+        "images/M2/c_webui_restaurant_description.png",
+        "images/M2/d_detail_menu.png",
+        "images/M2/e_detail_restaurants.png",
+        "images/M2/f_preferences_setup.png",
+        "images/M2/g_target_marquer.png",
+        "images/M2/h_cookie_loc.png"
+      ],
       "code_url": "https://github.com/william-maillard/",
       "demo_url": "",
       "technologies": [
