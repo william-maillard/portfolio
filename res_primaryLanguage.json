@@ -534,7 +534,13 @@
       "title": "XML Information Retrieval",
       "startDate": "2nd year of CS Master",
       "description": "The aim of this project is to implement a search engine for XML document belonging to the INEX 2008 collection. The workflow of the project is as follows: 1. Preprocessing of the XML documents 2. Indexing of the documents with a posting list 3. Querying the index with different weighting functions.",
-      "images": [""],
+      "images": [
+        "images/M2/2_ri/a_main_interactive.png",
+        "images/M2/2_ri/b_uml.png",
+        "images/M2/2_ri/c_vue-general.png",
+        "images/M2/2_ri/d_magp-all.png",
+        "images/M2/2_ri/e_precission_recall_TP7.png"
+      ],
       "code_url": "https://github.com/william-maillard/",
       "demo_url": "",
       "technologies": [

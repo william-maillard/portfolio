@@ -534,7 +534,13 @@
       "title": "Recherche d'information XML",
       "startDate": "M2 informatique, S1",
       "description": "L'objectif de ce projet est de mettre en œuvre un moteur de recherche pour des documents XML appartenant à la collection INEX 2008. Le flux de travail du projet est le suivant : 1. Prétraitement des documents XML 2. Indexation des documents avec une liste de postes 3. Interrogation de l'index avec différentes fonctions de pondération.",
-      "images": [""],
+      "images": [
+        "images/M2/2_ri/a_main_interactive.png",
+        "images/M2/2_ri/b_uml.png",
+        "images/M2/2_ri/c_vue-general.png",
+        "images/M2/2_ri/d_magp-all.png",
+        "images/M2/2_ri/e_precission_recall_TP7.png"
+      ],
       "code_url": "https://github.com/william-maillard/",
       "demo_url": "",
       "technologies": [
