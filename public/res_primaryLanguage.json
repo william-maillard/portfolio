@@ -531,7 +531,7 @@
       ]
     },
     {
-      "title": "XML Information Retrieval",
+      "title": "XML Information Retrieval (Elasticsearch like from scratch)",
       "startDate": "2nd year of CS Master",
       "description": "The aim of this project is to implement a search engine for XML document belonging to the INEX 2008 collection. The workflow of the project is as follows: 1. Preprocessing of the XML documents 2. Indexing of the documents with a posting list 3. Querying the index with different weighting functions.",
       "images": [

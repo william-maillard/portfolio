@@ -531,7 +531,7 @@
       ]
     },
     {
-      "title": "Recherche d'information XML",
+      "title": "Recherche d'information XML (système similaire à Elasticsearch, développé from scratch.)",
       "startDate": "M2 informatique, S1",
       "description": "L'objectif de ce projet est de mettre en œuvre un moteur de recherche pour des documents XML appartenant à la collection INEX 2008. Le flux de travail du projet est le suivant : 1. Prétraitement des documents XML 2. Indexation des documents avec une liste de postes 3. Interrogation de l'index avec différentes fonctions de pondération.",
       "images": [
