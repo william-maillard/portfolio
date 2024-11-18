@@ -602,9 +602,33 @@
         "images/M2/4_dl2/f_french-before-after.png",
         "images/M2/4_dl2/g_multi-v1.png",
         "images/M2/4_dl2/h_multi-plot-v2.png",
-        "images/M2/4_dl2/i_multi-plot.png"
+        "images/M2/4_dl2/i_multi-plot-v3.png"
       ],
       "code_url": "https://github.com/william-maillard/",
+      "demo_url": "",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "jupyter notebook"
+        }
+      ]
+    },
+    {
+      "title": "Tâches d'analyse et de prédiction des prix du Bitcoin en utilisant le graph mining.",
+      "startDate": "2nd year of CS Master",
+      "description": "...",
+      "images": [
+        "images/M2/5_dmbd/a_temporal_graph.png",
+        "images/M2/5_dmbd/b_event_occurence_all.png",
+        "images/M2/5_dmbd/c_price_evolution.png",
+        "images/M2/5_dmbd/d_lstm_prediction.png",
+        "images/M2/5_dmbd/e_evolution_of_the_clustering_coefficient_over_time.png",
+        "images/M2/5_dmbd/f_evolution_of_the_community_size_over_time.png",
+        "images/M2/5_dmbd/g_evolution_of_the_number_of_communities_by_month_against_bitcoin_course.png",
+        "images/M2/5_dmbd/h_evolution_of_the_number_of_edges_over_time.png",
+        "images/M2/5_dmbd/i_evolution_of_the_number_of_nodes_over_time.png"
+      ],
+      "code_url": "https://github.com/william-maillard/DMBD",
       "demo_url": "",
       "technologies": [
         {
