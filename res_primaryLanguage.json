@@ -531,7 +531,7 @@
       ]
     },
     {
-      "title": "XML Information Retrieval",
+      "title": "XML Information Retrieval (Elasticsearch like from scratch)",
       "startDate": "2nd year of CS Master",
       "description": "The aim of this project is to implement a search engine for XML document belonging to the INEX 2008 collection. The workflow of the project is as follows: 1. Preprocessing of the XML documents 2. Indexing of the documents with a posting list 3. Querying the index with different weighting functions.",
       "images": [
@@ -562,7 +562,16 @@
       "title": "Web Semantics",
       "startDate": "2nd year of CS Master",
       "description": "The aim of this project is to crawl web sites referencng by this one 'https://coopcycle.org/fr/' in order to extract semantic representation seen in the course lectures (json-ld). ANd then to create our onthologie in order to store thoses extracted information in a Jena database. Finally, the structured data are exposed throught a sparql endpoint in order to build a food delivery app.",
-      "images": [""],
+      "images": [
+        "images/M2/a_webui_home.png",
+        "images/M2/b_webui_menu_description.png",
+        "images/M2/c_webui_restaurant_description.png",
+        "images/M2/d_detail_menu.png",
+        "images/M2/e_detail_restaurants.png",
+        "images/M2/f_preferences_setup.png",
+        "images/M2/g_target_marquer.png",
+        "images/M2/h_cookie_loc.png"
+      ],
       "code_url": "https://github.com/william-maillard/",
       "demo_url": "",
       "technologies": [
@@ -584,7 +593,17 @@
       "title": "Deep Learning",
       "startDate": "2nd year of CS Master",
       "description": "Study differents preprocessing methods and architecture in order to do text translation from [fr] to [en].",
-      "images": [""],
+      "images": [
+        "images/M2/a_gru-model.png",
+        "images/M2/b_lstm-model.png",
+        "images/M2/c_transformer-model.png",
+        "images/M2/d_dataset-split.png",
+        "images/M2/e_english-before-after.png",
+        "images/M2/f_french-before-after.png",
+        "images/M2/g_multi-v1.png",
+        "images/M2/h_multi-plot-v2.png",
+        "images/M2/i_multi-plot.png"
+      ],
       "code_url": "https://github.com/william-maillard/",
       "demo_url": "",
       "technologies": [
