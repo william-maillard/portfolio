@@ -569,7 +569,7 @@
         "images/M2/3_sem_web/d_detail_menu.png",
         "images/M2/3_sem_web/e_detail_restaurants.png",
         "images/M2/3_sem_web/f_preferences_setup.png",
-        "images/M2/3_sem_web/g_target_marquer.png",
+        "images/M2/3_sem_web/g_target_marqueur.png",
         "images/M2/3_sem_web/h_cookie_loc.png"
       ],
       "code_url": "https://github.com/william-maillard/",
@@ -610,10 +610,6 @@
         {
           "class": "devicon-jupyter-plain",
           "name": "jupyter notebook"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "Keras"
         }
       ]
     }
