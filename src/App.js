@@ -161,7 +161,7 @@ class App extends Component {
             Got it!
           </button>
         </div>
-        <Header sharedData={this.state.sharedData.basic_info} />
+        <Header sharedData={this.state.sharedData.basic_info} calendly_message={this.state.resumeData.calendly_message}/>
         <div className="col-md-12 mx-auto text-center language">
           <div
             onClick={() =>

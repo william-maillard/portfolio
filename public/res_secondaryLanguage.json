@@ -9,6 +9,7 @@
       "experience": "Expérience"
     }
   },
+  "calendly_message" : "Réserver un échange de 30 minutes",
   "projects": [
     {
       "title": "Bomberman",
