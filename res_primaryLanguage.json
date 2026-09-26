@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi 👋",
-    "description": "🔎 Recent graduate, seeking a permanent position as a backend engineer | fullstack developer | DevOps. Below you can find all my academic projects with demo in the browser (for 11 of them). If you're only interesting by demos please refer to my github-profile page (link above, in the left corner) to get a list of them and their urls. Otherwise, enjoy illustrations and a short description with used CS skills for each project by clicking on their tile.",
+    "description": Hello! "Below you can find all my academic projects with demo in the browser (for 11 of them). If you're only interesting by demos please refer to my github-profile page (link above, in the left corner) to get a list of them and their urls. Otherwise, enjoy illustrations and a short description with used CS skills for each project by clicking on their tile.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -9,7 +9,6 @@
       "experience": "Experience"
     }
   },
-  "calendly_message" : "Book a 30-minute meeting",
   "projects": [
     {
       "title": "Bomberman",

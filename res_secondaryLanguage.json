@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Salut 👋",
-    "description": "🔎 Récemment  diplomé, à la reherche d'un CID ingénieur backend | fullstack | DevOps. Ci-dessous vous trouverez tous mes projets universitaire avec des démos (pour 11 d'entre eux), si vous n'êtes intéressé que par ces démos, veuillez vous référer à ma page github-profile (lien ci-dessus, dans le coin gauche) pour une liste de ces démos et leurs urls. Sinon, profitez des illustrations et d'une courte description avec les compétences IT utilisées pour chaque projet en cliquant sur leur tuile.",
+    "description": "Bonjour! Ci-dessous vous trouverez tous mes projets universitaire avec des démos (pour 11 d'entre eux), si vous n'êtes intéressé que par ces démos, veuillez vous référer à ma page github-profile (lien ci-dessus, dans le coin gauche) pour une liste de ces démos et leurs urls. Sinon, profitez des illustrations et d'une courte description avec les compétences IT utilisées pour chaque projet en cliquant sur leur tuile.",
     "section_name": {
       "about": "À propos de moi",
       "projects": "Projets",
@@ -9,7 +9,6 @@
       "experience": "Expérience"
     }
   },
-  "calendly_message" : "Réserver un échange de 30 minutes",
   "projects": [
     {
       "title": "Bomberman",
